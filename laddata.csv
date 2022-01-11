@@ -986,313 +986,313 @@ W06000021,Monmouthshire,41.0,45.0,4.0,2,1,agemed_all,Wales
 W06000022,Newport,37.0,38.0,1.0,-3,-3,agemed_all,Wales
 W06000023,Powys,42.0,46.0,4.0,1,1,agemed_all,Wales
 W06000024,Merthyr Tydfil,38.0,40.0,2.0,-4,-11,agemed_all,Wales
-E06000001,Hartlepool,,,,-73,1,welsh_SpeaksWelsh,North East
-E06000002,Middlesbrough,,,,-43,1,welsh_SpeaksWelsh,North East
-E06000003,Redcar and Cleveland,,,,-5,1,welsh_SpeaksWelsh,North East
-E06000004,Stockton-on-Tees,,,,128,1,welsh_SpeaksWelsh,North East
-E06000005,Darlington,,,,118,1,welsh_SpeaksWelsh,North East
-E06000006,Halton,,,,-153,1,welsh_SpeaksWelsh,North West
-E06000007,Warrington,,,,-132,1,welsh_SpeaksWelsh,North West
-E06000008,Blackburn with Darwen,,,,130,1,welsh_SpeaksWelsh,North West
-E06000009,Blackpool,,,,-13,1,welsh_SpeaksWelsh,North West
-E06000010,"Kingston upon Hull, City of",,,,-108,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E06000011,East Riding of Yorkshire,,,,-154,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E06000012,North East Lincolnshire,,,,-19,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E06000013,North Lincolnshire,,,,79,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E06000014,York,,,,81,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E06000015,Derby,,,,47,1,welsh_SpeaksWelsh,East Midlands
-E06000016,Leicester,,,,12,1,welsh_SpeaksWelsh,East Midlands
-E06000017,Rutland,,,,110,1,welsh_SpeaksWelsh,East Midlands
-E06000018,Nottingham,,,,27,1,welsh_SpeaksWelsh,East Midlands
-E06000019,"Herefordshire, County of",,,,-90,1,welsh_SpeaksWelsh,West Midlands
-E06000020,Telford and Wrekin,,,,-107,1,welsh_SpeaksWelsh,West Midlands
-E06000021,Stoke-on-Trent,,,,-66,1,welsh_SpeaksWelsh,West Midlands
-E06000022,Bath and North East Somerset,,,,-77,1,welsh_SpeaksWelsh,South West
-E06000023,"Bristol, City of",,,,43,1,welsh_SpeaksWelsh,South West
-E06000024,North Somerset,,,,127,1,welsh_SpeaksWelsh,South West
-E06000025,South Gloucestershire,,,,139,1,welsh_SpeaksWelsh,South West
-E06000026,Plymouth,,,,150,1,welsh_SpeaksWelsh,South West
-E06000027,Torbay,,,,-17,1,welsh_SpeaksWelsh,South West
-E06000030,Swindon,,,,19,1,welsh_SpeaksWelsh,South West
-E06000031,Peterborough,,,,16,1,welsh_SpeaksWelsh,East
-E06000032,Luton,,,,70,1,welsh_SpeaksWelsh,East
-E06000033,Southend-on-Sea,,,,103,1,welsh_SpeaksWelsh,East
-E06000034,Thurrock,,,,71,1,welsh_SpeaksWelsh,East
-E06000035,Medway,,,,-127,1,welsh_SpeaksWelsh,South East
-E06000036,Bracknell Forest,,,,-58,1,welsh_SpeaksWelsh,South East
-E06000037,West Berkshire,,,,152,1,welsh_SpeaksWelsh,South East
-E06000038,Reading,,,,95,1,welsh_SpeaksWelsh,South East
-E06000039,Slough,,,,13,1,welsh_SpeaksWelsh,South East
-E06000040,Windsor and Maidenhead,,,,108,1,welsh_SpeaksWelsh,South East
-E06000041,Wokingham,,,,-46,1,welsh_SpeaksWelsh,South East
-E06000042,Milton Keynes,,,,6,1,welsh_SpeaksWelsh,South East
-E06000043,Brighton and Hove,,,,69,1,welsh_SpeaksWelsh,South East
-E06000044,Portsmouth,,,,74,1,welsh_SpeaksWelsh,South East
-E06000045,Southampton,,,,90,1,welsh_SpeaksWelsh,South East
-E06000046,Isle of Wight,,,,-78,1,welsh_SpeaksWelsh,South East
-E06000047,County Durham,,,,-74,1,welsh_SpeaksWelsh,North East
-E06000049,Cheshire East,,,,-102,1,welsh_SpeaksWelsh,North West
-E06000050,Cheshire West and Chester,,,,-36,1,welsh_SpeaksWelsh,North West
-E06000051,Shropshire,,,,112,1,welsh_SpeaksWelsh,West Midlands
-E06000052,Cornwall,,,,148,1,welsh_SpeaksWelsh,South West
-E06000053,Isles of Scilly,,,,-34,1,welsh_SpeaksWelsh,South West
-E06000054,Wiltshire,,,,96,1,welsh_SpeaksWelsh,South West
-E06000055,Bedford,,,,151,1,welsh_SpeaksWelsh,East
-E06000056,Central Bedfordshire,,,,94,1,welsh_SpeaksWelsh,East
-E06000057,Northumberland,,,,-48,1,welsh_SpeaksWelsh,North East
-E06000058,"Bournemouth, Christchurch and Poole",,,,83,1,welsh_SpeaksWelsh,South West
-E06000059,Dorset,,,,-119,1,welsh_SpeaksWelsh,South West
-E06000060,Buckinghamshire,,,,-118,1,welsh_SpeaksWelsh,South East
-E07000008,Cambridge,,,,35,1,welsh_SpeaksWelsh,East
-E07000009,East Cambridgeshire,,,,28,1,welsh_SpeaksWelsh,East
-E07000010,Fenland,,,,32,1,welsh_SpeaksWelsh,East
-E07000011,Huntingdonshire,,,,115,1,welsh_SpeaksWelsh,East
-E07000012,South Cambridgeshire,,,,30,1,welsh_SpeaksWelsh,East
-E07000026,Allerdale,,,,-55,1,welsh_SpeaksWelsh,North West
-E07000027,Barrow-in-Furness,,,,-1,1,welsh_SpeaksWelsh,North West
-E07000028,Carlisle,,,,146,1,welsh_SpeaksWelsh,North West
-E07000029,Copeland,,,,-29,1,welsh_SpeaksWelsh,North West
-E07000030,Eden,,,,-121,1,welsh_SpeaksWelsh,North West
-E07000031,South Lakeland,,,,-20,1,welsh_SpeaksWelsh,North West
-E07000032,Amber Valley,,,,-94,1,welsh_SpeaksWelsh,East Midlands
-E07000033,Bolsover,,,,-122,1,welsh_SpeaksWelsh,East Midlands
-E07000034,Chesterfield,,,,-93,1,welsh_SpeaksWelsh,East Midlands
-E07000035,Derbyshire Dales,,,,-35,1,welsh_SpeaksWelsh,East Midlands
-E07000036,Erewash,,,,-28,1,welsh_SpeaksWelsh,East Midlands
-E07000037,High Peak,,,,-25,1,welsh_SpeaksWelsh,East Midlands
-E07000038,North East Derbyshire,,,,-33,1,welsh_SpeaksWelsh,East Midlands
-E07000039,South Derbyshire,,,,20,1,welsh_SpeaksWelsh,East Midlands
-E07000040,East Devon,,,,-120,1,welsh_SpeaksWelsh,South West
-E07000041,Exeter,,,,-140,1,welsh_SpeaksWelsh,South West
-E07000042,Mid Devon,,,,55,1,welsh_SpeaksWelsh,South West
-E07000043,North Devon,,,,138,1,welsh_SpeaksWelsh,South West
-E07000044,South Hams,,,,-23,1,welsh_SpeaksWelsh,South West
-E07000045,Teignbridge,,,,-45,1,welsh_SpeaksWelsh,South West
-E07000046,Torridge,,,,104,1,welsh_SpeaksWelsh,South West
-E07000047,West Devon,,,,77,1,welsh_SpeaksWelsh,South West
-E07000061,Eastbourne,,,,61,1,welsh_SpeaksWelsh,South East
-E07000062,Hastings,,,,-145,1,welsh_SpeaksWelsh,South East
-E07000063,Lewes,,,,-126,1,welsh_SpeaksWelsh,South East
-E07000064,Rother,,,,-142,1,welsh_SpeaksWelsh,South East
-E07000065,Wealden,,,,-152,1,welsh_SpeaksWelsh,South East
-E07000066,Basildon,,,,-111,1,welsh_SpeaksWelsh,East
-E07000067,Braintree,,,,57,1,welsh_SpeaksWelsh,East
-E07000068,Brentwood,,,,125,1,welsh_SpeaksWelsh,East
-E07000069,Castle Point,,,,-24,1,welsh_SpeaksWelsh,East
-E07000070,Chelmsford,,,,136,1,welsh_SpeaksWelsh,East
-E07000071,Colchester,,,,60,1,welsh_SpeaksWelsh,East
-E07000072,Epping Forest,,,,-53,1,welsh_SpeaksWelsh,East
-E07000073,Harlow,,,,-75,1,welsh_SpeaksWelsh,East
-E07000074,Maldon,,,,-72,1,welsh_SpeaksWelsh,East
-E07000075,Rochford,,,,-143,1,welsh_SpeaksWelsh,East
-E07000076,Tendring,,,,-11,1,welsh_SpeaksWelsh,East
-E07000077,Uttlesford,,,,24,1,welsh_SpeaksWelsh,East
-E07000078,Cheltenham,,,,-103,1,welsh_SpeaksWelsh,South West
-E07000079,Cotswold,,,,-54,1,welsh_SpeaksWelsh,South West
-E07000080,Forest of Dean,,,,-40,1,welsh_SpeaksWelsh,South West
-E07000081,Gloucester,,,,63,1,welsh_SpeaksWelsh,South West
-E07000082,Stroud,,,,-81,1,welsh_SpeaksWelsh,South West
-E07000083,Tewkesbury,,,,133,1,welsh_SpeaksWelsh,South West
-E07000084,Basingstoke and Deane,,,,72,1,welsh_SpeaksWelsh,South East
-E07000085,East Hampshire,,,,-131,1,welsh_SpeaksWelsh,South East
-E07000086,Eastleigh,,,,120,1,welsh_SpeaksWelsh,South East
-E07000087,Fareham,,,,-62,1,welsh_SpeaksWelsh,South East
-E07000088,Gosport,,,,111,1,welsh_SpeaksWelsh,South East
-E07000089,Hart,,,,88,1,welsh_SpeaksWelsh,South East
-E07000090,Havant,,,,-59,1,welsh_SpeaksWelsh,South East
-E07000091,New Forest,,,,-79,1,welsh_SpeaksWelsh,South East
-E07000092,Rushmoor,,,,-52,1,welsh_SpeaksWelsh,South East
-E07000093,Test Valley,,,,-138,1,welsh_SpeaksWelsh,South East
-E07000094,Winchester,,,,97,1,welsh_SpeaksWelsh,South East
-E07000095,Broxbourne,,,,124,1,welsh_SpeaksWelsh,East
-E07000096,Dacorum,,,,-98,1,welsh_SpeaksWelsh,East
-E07000098,Hertsmere,,,,-134,1,welsh_SpeaksWelsh,East
-E07000099,North Hertfordshire,,,,98,1,welsh_SpeaksWelsh,East
-E07000102,Three Rivers,,,,-113,1,welsh_SpeaksWelsh,East
-E07000103,Watford,,,,40,1,welsh_SpeaksWelsh,East
-E07000105,Ashford,,,,25,1,welsh_SpeaksWelsh,South East
-E07000106,Canterbury,,,,51,1,welsh_SpeaksWelsh,South East
-E07000107,Dartford,,,,37,1,welsh_SpeaksWelsh,South East
-E07000108,Dover,,,,145,1,welsh_SpeaksWelsh,South East
-E07000109,Gravesham,,,,-150,1,welsh_SpeaksWelsh,South East
-E07000110,Maidstone,,,,53,1,welsh_SpeaksWelsh,South East
-E07000111,Sevenoaks,,,,-96,1,welsh_SpeaksWelsh,South East
-E07000112,Folkestone and Hythe,,,,48,1,welsh_SpeaksWelsh,South East
-E07000113,Swale,,,,64,1,welsh_SpeaksWelsh,South East
-E07000114,Thanet,,,,-135,1,welsh_SpeaksWelsh,South East
-E07000115,Tonbridge and Malling,,,,45,1,welsh_SpeaksWelsh,South East
-E07000116,Tunbridge Wells,,,,65,1,welsh_SpeaksWelsh,South East
-E07000117,Burnley,,,,-6,1,welsh_SpeaksWelsh,North West
-E07000118,Chorley,,,,147,1,welsh_SpeaksWelsh,North West
-E07000119,Fylde,,,,-65,1,welsh_SpeaksWelsh,North West
-E07000120,Hyndburn,,,,-8,1,welsh_SpeaksWelsh,North West
-E07000121,Lancaster,,,,-60,1,welsh_SpeaksWelsh,North West
-E07000122,Pendle,,,,-14,1,welsh_SpeaksWelsh,North West
-E07000123,Preston,,,,109,1,welsh_SpeaksWelsh,North West
-E07000124,Ribble Valley,,,,-133,1,welsh_SpeaksWelsh,North West
-E07000125,Rossendale,,,,-69,1,welsh_SpeaksWelsh,North West
-E07000126,South Ribble,,,,-92,1,welsh_SpeaksWelsh,North West
-E07000127,West Lancashire,,,,-32,1,welsh_SpeaksWelsh,North West
-E07000128,Wyre,,,,-30,1,welsh_SpeaksWelsh,North West
-E07000129,Blaby,,,,-76,1,welsh_SpeaksWelsh,East Midlands
-E07000130,Charnwood,,,,106,1,welsh_SpeaksWelsh,East Midlands
-E07000131,Harborough,,,,54,1,welsh_SpeaksWelsh,East Midlands
-E07000132,Hinckley and Bosworth,,,,-91,1,welsh_SpeaksWelsh,East Midlands
-E07000133,Melton,,,,-105,1,welsh_SpeaksWelsh,East Midlands
-E07000134,North West Leicestershire,,,,82,1,welsh_SpeaksWelsh,East Midlands
-E07000135,Oadby and Wigston,,,,-16,1,welsh_SpeaksWelsh,East Midlands
-E07000136,Boston,,,,21,1,welsh_SpeaksWelsh,East Midlands
-E07000137,East Lindsey,,,,-82,1,welsh_SpeaksWelsh,East Midlands
-E07000138,Lincoln,,,,85,1,welsh_SpeaksWelsh,East Midlands
-E07000139,North Kesteven,,,,26,1,welsh_SpeaksWelsh,East Midlands
-E07000140,South Holland,,,,23,1,welsh_SpeaksWelsh,East Midlands
-E07000141,South Kesteven,,,,135,1,welsh_SpeaksWelsh,East Midlands
-E07000142,West Lindsey,,,,46,1,welsh_SpeaksWelsh,East Midlands
-E07000143,Breckland,,,,126,1,welsh_SpeaksWelsh,East
-E07000144,Broadland,,,,-101,1,welsh_SpeaksWelsh,East
-E07000145,Great Yarmouth,,,,137,1,welsh_SpeaksWelsh,East
-E07000146,King's Lynn and West Norfolk,,,,92,1,welsh_SpeaksWelsh,East
-E07000147,North Norfolk,,,,-57,1,welsh_SpeaksWelsh,East
-E07000148,Norwich,,,,89,1,welsh_SpeaksWelsh,East
-E07000149,South Norfolk,,,,49,1,welsh_SpeaksWelsh,East
-E07000163,Craven,,,,-61,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E07000164,Hambleton,,,,-137,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E07000165,Harrogate,,,,-80,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E07000166,Richmondshire,,,,66,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E07000167,Ryedale,,,,-26,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E07000168,Scarborough,,,,-38,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E07000169,Selby,,,,86,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E07000170,Ashfield,,,,131,1,welsh_SpeaksWelsh,East Midlands
-E07000171,Bassetlaw,,,,-89,1,welsh_SpeaksWelsh,East Midlands
-E07000172,Broxtowe,,,,-27,1,welsh_SpeaksWelsh,East Midlands
-E07000173,Gedling,,,,-22,1,welsh_SpeaksWelsh,East Midlands
-E07000174,Mansfield,,,,153,1,welsh_SpeaksWelsh,East Midlands
-E07000175,Newark and Sherwood,,,,114,1,welsh_SpeaksWelsh,East Midlands
-E07000176,Rushcliffe,,,,-106,1,welsh_SpeaksWelsh,East Midlands
-E07000177,Cherwell,,,,122,1,welsh_SpeaksWelsh,South East
-E07000178,Oxford,,,,41,1,welsh_SpeaksWelsh,South East
-E07000179,South Oxfordshire,,,,-86,1,welsh_SpeaksWelsh,South East
-E07000180,Vale of White Horse,,,,-83,1,welsh_SpeaksWelsh,South East
-E07000181,West Oxfordshire,,,,78,1,welsh_SpeaksWelsh,South East
-E07000187,Mendip,,,,-104,1,welsh_SpeaksWelsh,South West
-E07000188,Sedgemoor,,,,107,1,welsh_SpeaksWelsh,South West
-E07000189,South Somerset,,,,143,1,welsh_SpeaksWelsh,South West
-E07000192,Cannock Chase,,,,-129,1,welsh_SpeaksWelsh,West Midlands
-E07000193,East Staffordshire,,,,80,1,welsh_SpeaksWelsh,West Midlands
-E07000194,Lichfield,,,,116,1,welsh_SpeaksWelsh,West Midlands
-E07000195,Newcastle-under-Lyme,,,,-21,1,welsh_SpeaksWelsh,West Midlands
-E07000196,South Staffordshire,,,,-31,1,welsh_SpeaksWelsh,West Midlands
-E07000197,Stafford,,,,102,1,welsh_SpeaksWelsh,West Midlands
-E07000198,Staffordshire Moorlands,,,,-47,1,welsh_SpeaksWelsh,West Midlands
-E07000199,Tamworth,,,,-50,1,welsh_SpeaksWelsh,West Midlands
-E07000200,Babergh,,,,-99,1,welsh_SpeaksWelsh,East
-E07000202,Ipswich,,,,33,1,welsh_SpeaksWelsh,East
-E07000203,Mid Suffolk,,,,56,1,welsh_SpeaksWelsh,East
-E07000207,Elmbridge,,,,129,1,welsh_SpeaksWelsh,South East
-E07000208,Epsom and Ewell,,,,50,1,welsh_SpeaksWelsh,South East
-E07000209,Guildford,,,,-124,1,welsh_SpeaksWelsh,South East
-E07000210,Mole Valley,,,,-151,1,welsh_SpeaksWelsh,South East
-E07000211,Reigate and Banstead,,,,91,1,welsh_SpeaksWelsh,South East
-E07000212,Runnymede,,,,-56,1,welsh_SpeaksWelsh,South East
-E07000213,Spelthorne,,,,-123,1,welsh_SpeaksWelsh,South East
-E07000214,Surrey Heath,,,,132,1,welsh_SpeaksWelsh,South East
-E07000215,Tandridge,,,,-85,1,welsh_SpeaksWelsh,South East
-E07000216,Waverley,,,,-97,1,welsh_SpeaksWelsh,South East
-E07000217,Woking,,,,68,1,welsh_SpeaksWelsh,South East
-E07000218,North Warwickshire,,,,-15,1,welsh_SpeaksWelsh,West Midlands
-E07000219,Nuneaton and Bedworth,,,,-100,1,welsh_SpeaksWelsh,West Midlands
-E07000220,Rugby,,,,29,1,welsh_SpeaksWelsh,West Midlands
-E07000221,Stratford-on-Avon,,,,113,1,welsh_SpeaksWelsh,West Midlands
-E07000222,Warwick,,,,84,1,welsh_SpeaksWelsh,West Midlands
-E07000223,Adur,,,,-42,1,welsh_SpeaksWelsh,South East
-E07000224,Arun,,,,-146,1,welsh_SpeaksWelsh,South East
-E07000225,Chichester,,,,140,1,welsh_SpeaksWelsh,South East
-E07000226,Crawley,,,,141,1,welsh_SpeaksWelsh,South East
-E07000227,Horsham,,,,123,1,welsh_SpeaksWelsh,South East
-E07000228,Mid Sussex,,,,76,1,welsh_SpeaksWelsh,South East
-E07000229,Worthing,,,,134,1,welsh_SpeaksWelsh,South East
-E07000234,Bromsgrove,,,,149,1,welsh_SpeaksWelsh,West Midlands
-E07000235,Malvern Hills,,,,-64,1,welsh_SpeaksWelsh,West Midlands
-E07000236,Redditch,,,,142,1,welsh_SpeaksWelsh,West Midlands
-E07000237,Worcester,,,,-130,1,welsh_SpeaksWelsh,West Midlands
-E07000238,Wychavon,,,,-68,1,welsh_SpeaksWelsh,West Midlands
-E07000239,Wyre Forest,,,,-18,1,welsh_SpeaksWelsh,West Midlands
-E07000240,St Albans,,,,87,1,welsh_SpeaksWelsh,East
-E07000241,Welwyn Hatfield,,,,38,1,welsh_SpeaksWelsh,East
-E07000242,East Hertfordshire,,,,144,1,welsh_SpeaksWelsh,East
-E07000243,Stevenage,,,,-110,1,welsh_SpeaksWelsh,East
-E07000244,East Suffolk,,,,-109,1,welsh_SpeaksWelsh,East
-E07000245,West Suffolk,,,,59,1,welsh_SpeaksWelsh,East
-E07000246,Somerset West and Taunton,,,,-117,1,welsh_SpeaksWelsh,South West
-E08000001,Bolton,,,,-139,1,welsh_SpeaksWelsh,North West
-E08000002,Bury,,,,-39,1,welsh_SpeaksWelsh,North West
-E08000003,Manchester,,,,2,1,welsh_SpeaksWelsh,North West
-E08000004,Oldham,,,,-67,1,welsh_SpeaksWelsh,North West
-E08000005,Rochdale,,,,-51,1,welsh_SpeaksWelsh,North West
-E08000006,Salford,,,,105,1,welsh_SpeaksWelsh,North West
-E08000007,Stockport,,,,-10,1,welsh_SpeaksWelsh,North West
-E08000008,Tameside,,,,-49,1,welsh_SpeaksWelsh,North West
-E08000009,Trafford,,,,119,1,welsh_SpeaksWelsh,North West
-E08000010,Wigan,,,,-116,1,welsh_SpeaksWelsh,North West
-E08000011,Knowsley,,,,-4,1,welsh_SpeaksWelsh,North West
-E08000012,Liverpool,,,,-144,1,welsh_SpeaksWelsh,North West
-E08000013,St. Helens,,,,-9,1,welsh_SpeaksWelsh,North West
-E08000014,Sefton,,,,-2,1,welsh_SpeaksWelsh,North West
-E08000015,Wirral,,,,-37,1,welsh_SpeaksWelsh,North West
-E08000016,Barnsley,,,,-141,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E08000017,Doncaster,,,,-114,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E08000018,Rotherham,,,,-71,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E08000019,Sheffield,,,,121,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E08000021,Newcastle upon Tyne,,,,117,1,welsh_SpeaksWelsh,North East
-E08000022,North Tyneside,,,,-88,1,welsh_SpeaksWelsh,North East
-E08000023,South Tyneside,,,,-3,1,welsh_SpeaksWelsh,North East
-E08000024,Sunderland,,,,-7,1,welsh_SpeaksWelsh,North East
-E08000025,Birmingham,,,,75,1,welsh_SpeaksWelsh,West Midlands
-E08000026,Coventry,,,,-112,1,welsh_SpeaksWelsh,West Midlands
-E08000027,Dudley,,,,-41,1,welsh_SpeaksWelsh,West Midlands
-E08000028,Sandwell,,,,93,1,welsh_SpeaksWelsh,West Midlands
-E08000029,Solihull,,,,-70,1,welsh_SpeaksWelsh,West Midlands
-E08000030,Walsall,,,,-147,1,welsh_SpeaksWelsh,West Midlands
-E08000031,Wolverhampton,,,,-115,1,welsh_SpeaksWelsh,West Midlands
-E08000032,Bradford,,,,52,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E08000033,Calderdale,,,,-136,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E08000034,Kirklees,,,,99,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E08000035,Leeds,,,,-95,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E08000036,Wakefield,,,,-63,1,welsh_SpeaksWelsh,Yorkshire and The Humber
-E08000037,Gateshead,,,,-87,1,welsh_SpeaksWelsh,North East
-E09000001,City of London,,,,-44,1,welsh_SpeaksWelsh,London
-E09000002,Barking and Dagenham,,,,36,1,welsh_SpeaksWelsh,London
-E09000003,Barnet,,,,39,1,welsh_SpeaksWelsh,London
-E09000004,Bexley,,,,-148,1,welsh_SpeaksWelsh,London
-E09000005,Brent,,,,10,1,welsh_SpeaksWelsh,London
-E09000006,Bromley,,,,-84,1,welsh_SpeaksWelsh,London
-E09000007,Camden,,,,58,1,welsh_SpeaksWelsh,London
-E09000008,Croydon,,,,73,1,welsh_SpeaksWelsh,London
-E09000009,Ealing,,,,44,1,welsh_SpeaksWelsh,London
-E09000010,Enfield,,,,31,1,welsh_SpeaksWelsh,London
-E09000011,Greenwich,,,,8,1,welsh_SpeaksWelsh,London
-E09000012,Hackney,,,,4,1,welsh_SpeaksWelsh,London
-E09000013,Hammersmith and Fulham,,,,67,1,welsh_SpeaksWelsh,London
-E09000014,Haringey,,,,14,1,welsh_SpeaksWelsh,London
-E09000015,Harrow,,,,22,1,welsh_SpeaksWelsh,London
-E09000016,Havering,,,,-128,1,welsh_SpeaksWelsh,London
-E09000017,Hillingdon,,,,42,1,welsh_SpeaksWelsh,London
-E09000018,Hounslow,,,,7,1,welsh_SpeaksWelsh,London
-E09000019,Islington,,,,17,1,welsh_SpeaksWelsh,London
-E09000020,Kensington and Chelsea,,,,-12,1,welsh_SpeaksWelsh,London
-E09000021,Kingston upon Thames,,,,100,1,welsh_SpeaksWelsh,London
-E09000022,Lambeth,,,,34,1,welsh_SpeaksWelsh,London
-E09000023,Lewisham,,,,62,1,welsh_SpeaksWelsh,London
-E09000024,Merton,,,,-149,1,welsh_SpeaksWelsh,London
-E09000025,Newham,,,,3,1,welsh_SpeaksWelsh,London
-E09000026,Redbridge,,,,18,1,welsh_SpeaksWelsh,London
-E09000027,Richmond upon Thames,,,,101,1,welsh_SpeaksWelsh,London
-E09000028,Southwark,,,,15,1,welsh_SpeaksWelsh,London
-E09000029,Sutton,,,,-125,1,welsh_SpeaksWelsh,London
-E09000030,Tower Hamlets,,,,1,1,welsh_SpeaksWelsh,London
-E09000031,Waltham Forest,,,,9,1,welsh_SpeaksWelsh,London
-E09000032,Wandsworth,,,,11,1,welsh_SpeaksWelsh,London
-E09000033,Westminster,,,,5,1,welsh_SpeaksWelsh,London
+E06000001,Hartlepool,1,1,1,1,1,welsh_SpeaksWelsh,North East
+E06000002,Middlesbrough,1,1,1,-153,1,welsh_SpeaksWelsh,North East
+E06000003,Redcar and Cleveland,1,1,1,-98,1,welsh_SpeaksWelsh,North East
+E06000004,Stockton-on-Tees,1,1,1,-99,1,welsh_SpeaksWelsh,North East
+E06000005,Darlington,1,1,1,-100,1,welsh_SpeaksWelsh,North East
+E06000006,Halton,1,1,1,-101,1,welsh_SpeaksWelsh,North West
+E06000007,Warrington,1,1,1,-102,1,welsh_SpeaksWelsh,North West
+E06000008,Blackburn with Darwen,1,1,1,-103,1,welsh_SpeaksWelsh,North West
+E06000009,Blackpool,1,1,1,-104,1,welsh_SpeaksWelsh,North West
+E06000010,"Kingston upon Hull, City of",1,1,1,-105,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E06000011,East Riding of Yorkshire,1,1,1,-106,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E06000012,North East Lincolnshire,1,1,1,-107,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E06000013,North Lincolnshire,1,1,1,-108,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E06000014,York,1,1,1,-109,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E06000015,Derby,1,1,1,-110,1,welsh_SpeaksWelsh,East Midlands
+E06000016,Leicester,1,1,1,-111,1,welsh_SpeaksWelsh,East Midlands
+E06000017,Rutland,1,1,1,-112,1,welsh_SpeaksWelsh,East Midlands
+E06000018,Nottingham,1,1,1,-97,1,welsh_SpeaksWelsh,East Midlands
+E06000019,"Herefordshire, County of",1,1,1,-113,1,welsh_SpeaksWelsh,West Midlands
+E06000020,Telford and Wrekin,1,1,1,-96,1,welsh_SpeaksWelsh,West Midlands
+E06000021,Stoke-on-Trent,1,1,1,-94,1,welsh_SpeaksWelsh,West Midlands
+E06000022,Bath and North East Somerset,1,1,1,-79,1,welsh_SpeaksWelsh,South West
+E06000023,"Bristol, City of",1,1,1,-80,1,welsh_SpeaksWelsh,South West
+E06000024,North Somerset,1,1,1,-81,1,welsh_SpeaksWelsh,South West
+E06000025,South Gloucestershire,1,1,1,-82,1,welsh_SpeaksWelsh,South West
+E06000026,Plymouth,1,1,1,-83,1,welsh_SpeaksWelsh,South West
+E06000027,Torbay,1,1,1,-84,1,welsh_SpeaksWelsh,South West
+E06000030,Swindon,1,1,1,-85,1,welsh_SpeaksWelsh,South West
+E06000031,Peterborough,1,1,1,-86,1,welsh_SpeaksWelsh,East
+E06000032,Luton,1,1,1,-87,1,welsh_SpeaksWelsh,East
+E06000033,Southend-on-Sea,1,1,1,-88,1,welsh_SpeaksWelsh,East
+E06000034,Thurrock,1,1,1,-89,1,welsh_SpeaksWelsh,East
+E06000035,Medway,1,1,1,-90,1,welsh_SpeaksWelsh,South East
+E06000036,Bracknell Forest,1,1,1,-91,1,welsh_SpeaksWelsh,South East
+E06000037,West Berkshire,1,1,1,-92,1,welsh_SpeaksWelsh,South East
+E06000038,Reading,1,1,1,-93,1,welsh_SpeaksWelsh,South East
+E06000039,Slough,1,1,1,-95,1,welsh_SpeaksWelsh,South East
+E06000040,Windsor and Maidenhead,1,1,1,-114,1,welsh_SpeaksWelsh,South East
+E06000041,Wokingham,1,1,1,-115,1,welsh_SpeaksWelsh,South East
+E06000042,Milton Keynes,1,1,1,-116,1,welsh_SpeaksWelsh,South East
+E06000043,Brighton and Hove,1,1,1,-136,1,welsh_SpeaksWelsh,South East
+E06000044,Portsmouth,1,1,1,-137,1,welsh_SpeaksWelsh,South East
+E06000045,Southampton,1,1,1,-138,1,welsh_SpeaksWelsh,South East
+E06000046,Isle of Wight,1,1,1,-139,1,welsh_SpeaksWelsh,South East
+E06000047,County Durham,1,1,1,-140,1,welsh_SpeaksWelsh,North East
+E06000049,Cheshire East,1,1,1,-141,1,welsh_SpeaksWelsh,North West
+E06000050,Cheshire West and Chester,1,1,1,-142,1,welsh_SpeaksWelsh,North West
+E06000051,Shropshire,1,1,1,-144,1,welsh_SpeaksWelsh,West Midlands
+E06000052,Cornwall,1,1,1,-152,1,welsh_SpeaksWelsh,South West
+E06000053,Isles of Scilly,1,1,1,-145,1,welsh_SpeaksWelsh,South West
+E06000054,Wiltshire,1,1,1,-146,1,welsh_SpeaksWelsh,South West
+E06000055,Bedford,1,1,1,-147,1,welsh_SpeaksWelsh,East
+E06000056,Central Bedfordshire,1,1,1,-148,1,welsh_SpeaksWelsh,East
+E06000057,Northumberland,1,1,1,-149,1,welsh_SpeaksWelsh,North East
+E06000058,"Bournemouth, Christchurch and Poole",1,1,1,-150,1,welsh_SpeaksWelsh,South West
+E06000059,Dorset,1,1,1,-151,1,welsh_SpeaksWelsh,South West
+E06000060,Buckinghamshire,1,1,1,-135,1,welsh_SpeaksWelsh,South East
+E07000008,Cambridge,1,1,1,-134,1,welsh_SpeaksWelsh,East
+E07000009,East Cambridgeshire,1,1,1,-133,1,welsh_SpeaksWelsh,East
+E07000010,Fenland,1,1,1,-132,1,welsh_SpeaksWelsh,East
+E07000011,Huntingdonshire,1,1,1,-117,1,welsh_SpeaksWelsh,East
+E07000012,South Cambridgeshire,1,1,1,-118,1,welsh_SpeaksWelsh,East
+E07000026,Allerdale,1,1,1,-119,1,welsh_SpeaksWelsh,North West
+E07000027,Barrow-in-Furness,1,1,1,-120,1,welsh_SpeaksWelsh,North West
+E07000028,Carlisle,1,1,1,-121,1,welsh_SpeaksWelsh,North West
+E07000029,Copeland,1,1,1,-122,1,welsh_SpeaksWelsh,North West
+E07000030,Eden,1,1,1,-123,1,welsh_SpeaksWelsh,North West
+E07000031,South Lakeland,1,1,1,-124,1,welsh_SpeaksWelsh,North West
+E07000032,Amber Valley,1,1,1,-125,1,welsh_SpeaksWelsh,East Midlands
+E07000033,Bolsover,1,1,1,-126,1,welsh_SpeaksWelsh,East Midlands
+E07000034,Chesterfield,1,1,1,-127,1,welsh_SpeaksWelsh,East Midlands
+E07000035,Derbyshire Dales,1,1,1,-128,1,welsh_SpeaksWelsh,East Midlands
+E07000036,Erewash,1,1,1,-129,1,welsh_SpeaksWelsh,East Midlands
+E07000037,High Peak,1,1,1,-130,1,welsh_SpeaksWelsh,East Midlands
+E07000038,North East Derbyshire,1,1,1,-131,1,welsh_SpeaksWelsh,East Midlands
+E07000039,South Derbyshire,1,1,1,-78,1,welsh_SpeaksWelsh,East Midlands
+E07000040,East Devon,1,1,1,-143,1,welsh_SpeaksWelsh,South West
+E07000041,Exeter,1,1,1,-77,1,welsh_SpeaksWelsh,South West
+E07000042,Mid Devon,1,1,1,-66,1,welsh_SpeaksWelsh,South West
+E07000043,North Devon,1,1,1,-21,1,welsh_SpeaksWelsh,South West
+E07000044,South Hams,1,1,1,-22,1,welsh_SpeaksWelsh,South West
+E07000045,Teignbridge,1,1,1,-23,1,welsh_SpeaksWelsh,South West
+E07000046,Torridge,1,1,1,-24,1,welsh_SpeaksWelsh,South West
+E07000047,West Devon,1,1,1,-25,1,welsh_SpeaksWelsh,South West
+E07000061,Eastbourne,1,1,1,-26,1,welsh_SpeaksWelsh,South East
+E07000062,Hastings,1,1,1,-27,1,welsh_SpeaksWelsh,South East
+E07000063,Lewes,1,1,1,-28,1,welsh_SpeaksWelsh,South East
+E07000064,Rother,1,1,1,-29,1,welsh_SpeaksWelsh,South East
+E07000065,Wealden,1,1,1,-30,1,welsh_SpeaksWelsh,South East
+E07000066,Basildon,1,1,1,-31,1,welsh_SpeaksWelsh,East
+E07000067,Braintree,1,1,1,-32,1,welsh_SpeaksWelsh,East
+E07000068,Brentwood,1,1,1,-33,1,welsh_SpeaksWelsh,East
+E07000069,Castle Point,1,1,1,-34,1,welsh_SpeaksWelsh,East
+E07000070,Chelmsford,1,1,1,-35,1,welsh_SpeaksWelsh,East
+E07000071,Colchester,1,1,1,-20,1,welsh_SpeaksWelsh,East
+E07000072,Epping Forest,1,1,1,-36,1,welsh_SpeaksWelsh,East
+E07000073,Harlow,1,1,1,-19,1,welsh_SpeaksWelsh,East
+E07000074,Maldon,1,1,1,-17,1,welsh_SpeaksWelsh,East
+E07000075,Rochford,1,1,1,-2,1,welsh_SpeaksWelsh,East
+E07000076,Tendring,1,1,1,-3,1,welsh_SpeaksWelsh,East
+E07000077,Uttlesford,1,1,1,-4,1,welsh_SpeaksWelsh,East
+E07000078,Cheltenham,1,1,1,-5,1,welsh_SpeaksWelsh,South West
+E07000079,Cotswold,1,1,1,-6,1,welsh_SpeaksWelsh,South West
+E07000080,Forest of Dean,1,1,1,-7,1,welsh_SpeaksWelsh,South West
+E07000081,Gloucester,1,1,1,-8,1,welsh_SpeaksWelsh,South West
+E07000082,Stroud,1,1,1,-9,1,welsh_SpeaksWelsh,South West
+E07000083,Tewkesbury,1,1,1,-10,1,welsh_SpeaksWelsh,South West
+E07000084,Basingstoke and Deane,1,1,1,-11,1,welsh_SpeaksWelsh,South East
+E07000085,East Hampshire,1,1,1,-12,1,welsh_SpeaksWelsh,South East
+E07000086,Eastleigh,1,1,1,-13,1,welsh_SpeaksWelsh,South East
+E07000087,Fareham,1,1,1,-14,1,welsh_SpeaksWelsh,South East
+E07000088,Gosport,1,1,1,-15,1,welsh_SpeaksWelsh,South East
+E07000089,Hart,1,1,1,-16,1,welsh_SpeaksWelsh,South East
+E07000090,Havant,1,1,1,-18,1,welsh_SpeaksWelsh,South East
+E07000091,New Forest,1,1,1,-37,1,welsh_SpeaksWelsh,South East
+E07000092,Rushmoor,1,1,1,-38,1,welsh_SpeaksWelsh,South East
+E07000093,Test Valley,1,1,1,-39,1,welsh_SpeaksWelsh,South East
+E07000094,Winchester,1,1,1,-59,1,welsh_SpeaksWelsh,South East
+E07000095,Broxbourne,1,1,1,-60,1,welsh_SpeaksWelsh,East
+E07000096,Dacorum,1,1,1,-61,1,welsh_SpeaksWelsh,East
+E07000098,Hertsmere,1,1,1,-62,1,welsh_SpeaksWelsh,East
+E07000099,North Hertfordshire,1,1,1,-63,1,welsh_SpeaksWelsh,East
+E07000102,Three Rivers,1,1,1,-64,1,welsh_SpeaksWelsh,East
+E07000103,Watford,1,1,1,-65,1,welsh_SpeaksWelsh,East
+E07000105,Ashford,1,1,1,-67,1,welsh_SpeaksWelsh,South East
+E07000106,Canterbury,1,1,1,-75,1,welsh_SpeaksWelsh,South East
+E07000107,Dartford,1,1,1,-68,1,welsh_SpeaksWelsh,South East
+E07000108,Dover,1,1,1,-69,1,welsh_SpeaksWelsh,South East
+E07000109,Gravesham,1,1,1,-70,1,welsh_SpeaksWelsh,South East
+E07000110,Maidstone,1,1,1,-71,1,welsh_SpeaksWelsh,South East
+E07000111,Sevenoaks,1,1,1,-72,1,welsh_SpeaksWelsh,South East
+E07000112,Folkestone and Hythe,1,1,1,-73,1,welsh_SpeaksWelsh,South East
+E07000113,Swale,1,1,1,-74,1,welsh_SpeaksWelsh,South East
+E07000114,Thanet,1,1,1,-58,1,welsh_SpeaksWelsh,South East
+E07000115,Tonbridge and Malling,1,1,1,-57,1,welsh_SpeaksWelsh,South East
+E07000116,Tunbridge Wells,1,1,1,-56,1,welsh_SpeaksWelsh,South East
+E07000117,Burnley,1,1,1,-55,1,welsh_SpeaksWelsh,North West
+E07000118,Chorley,1,1,1,-40,1,welsh_SpeaksWelsh,North West
+E07000119,Fylde,1,1,1,-41,1,welsh_SpeaksWelsh,North West
+E07000120,Hyndburn,1,1,1,-42,1,welsh_SpeaksWelsh,North West
+E07000121,Lancaster,1,1,1,-43,1,welsh_SpeaksWelsh,North West
+E07000122,Pendle,1,1,1,-44,1,welsh_SpeaksWelsh,North West
+E07000123,Preston,1,1,1,-45,1,welsh_SpeaksWelsh,North West
+E07000124,Ribble Valley,1,1,1,-46,1,welsh_SpeaksWelsh,North West
+E07000125,Rossendale,1,1,1,-47,1,welsh_SpeaksWelsh,North West
+E07000126,South Ribble,1,1,1,-48,1,welsh_SpeaksWelsh,North West
+E07000127,West Lancashire,1,1,1,-49,1,welsh_SpeaksWelsh,North West
+E07000128,Wyre,1,1,1,-50,1,welsh_SpeaksWelsh,North West
+E07000129,Blaby,1,1,1,-51,1,welsh_SpeaksWelsh,East Midlands
+E07000130,Charnwood,1,1,1,-52,1,welsh_SpeaksWelsh,East Midlands
+E07000131,Harborough,1,1,1,-53,1,welsh_SpeaksWelsh,East Midlands
+E07000132,Hinckley and Bosworth,1,1,1,-54,1,welsh_SpeaksWelsh,East Midlands
+E07000133,Melton,1,1,1,-76,1,welsh_SpeaksWelsh,East Midlands
+E07000134,North West Leicestershire,1,1,1,-154,1,welsh_SpeaksWelsh,East Midlands
+E07000135,Oadby and Wigston,1,1,1,78,1,welsh_SpeaksWelsh,East Midlands
+E07000136,Boston,1,1,1,153,1,welsh_SpeaksWelsh,East Midlands
+E07000137,East Lindsey,1,1,1,56,1,welsh_SpeaksWelsh,East Midlands
+E07000138,Lincoln,1,1,1,55,1,welsh_SpeaksWelsh,East Midlands
+E07000139,North Kesteven,1,1,1,54,1,welsh_SpeaksWelsh,East Midlands
+E07000140,South Holland,1,1,1,53,1,welsh_SpeaksWelsh,East Midlands
+E07000141,South Kesteven,1,1,1,52,1,welsh_SpeaksWelsh,East Midlands
+E07000142,West Lindsey,1,1,1,51,1,welsh_SpeaksWelsh,East Midlands
+E07000143,Breckland,1,1,1,50,1,welsh_SpeaksWelsh,East
+E07000144,Broadland,1,1,1,49,1,welsh_SpeaksWelsh,East
+E07000145,Great Yarmouth,1,1,1,48,1,welsh_SpeaksWelsh,East
+E07000146,King's Lynn and West Norfolk,1,1,1,47,1,welsh_SpeaksWelsh,East
+E07000147,North Norfolk,1,1,1,46,1,welsh_SpeaksWelsh,East
+E07000148,Norwich,1,1,1,45,1,welsh_SpeaksWelsh,East
+E07000149,South Norfolk,1,1,1,44,1,welsh_SpeaksWelsh,East
+E07000163,Craven,1,1,1,43,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E07000164,Hambleton,1,1,1,42,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E07000165,Harrogate,1,1,1,57,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E07000166,Richmondshire,1,1,1,41,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E07000167,Ryedale,1,1,1,58,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E07000168,Scarborough,1,1,1,60,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E07000169,Selby,1,1,1,75,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E07000170,Ashfield,1,1,1,74,1,welsh_SpeaksWelsh,East Midlands
+E07000171,Bassetlaw,1,1,1,73,1,welsh_SpeaksWelsh,East Midlands
+E07000172,Broxtowe,1,1,1,72,1,welsh_SpeaksWelsh,East Midlands
+E07000173,Gedling,1,1,1,71,1,welsh_SpeaksWelsh,East Midlands
+E07000174,Mansfield,1,1,1,70,1,welsh_SpeaksWelsh,East Midlands
+E07000175,Newark and Sherwood,1,1,1,69,1,welsh_SpeaksWelsh,East Midlands
+E07000176,Rushcliffe,1,1,1,68,1,welsh_SpeaksWelsh,East Midlands
+E07000177,Cherwell,1,1,1,67,1,welsh_SpeaksWelsh,South East
+E07000178,Oxford,1,1,1,66,1,welsh_SpeaksWelsh,South East
+E07000179,South Oxfordshire,1,1,1,65,1,welsh_SpeaksWelsh,South East
+E07000180,Vale of White Horse,1,1,1,64,1,welsh_SpeaksWelsh,South East
+E07000181,West Oxfordshire,1,1,1,63,1,welsh_SpeaksWelsh,South East
+E07000187,Mendip,1,1,1,62,1,welsh_SpeaksWelsh,South West
+E07000188,Sedgemoor,1,1,1,61,1,welsh_SpeaksWelsh,South West
+E07000189,South Somerset,1,1,1,59,1,welsh_SpeaksWelsh,South West
+E07000192,Cannock Chase,1,1,1,40,1,welsh_SpeaksWelsh,West Midlands
+E07000193,East Staffordshire,1,1,1,39,1,welsh_SpeaksWelsh,West Midlands
+E07000194,Lichfield,1,1,1,38,1,welsh_SpeaksWelsh,West Midlands
+E07000195,Newcastle-under-Lyme,1,1,1,18,1,welsh_SpeaksWelsh,West Midlands
+E07000196,South Staffordshire,1,1,1,17,1,welsh_SpeaksWelsh,West Midlands
+E07000197,Stafford,1,1,1,16,1,welsh_SpeaksWelsh,West Midlands
+E07000198,Staffordshire Moorlands,1,1,1,15,1,welsh_SpeaksWelsh,West Midlands
+E07000199,Tamworth,1,1,1,14,1,welsh_SpeaksWelsh,West Midlands
+E07000200,Babergh,1,1,1,13,1,welsh_SpeaksWelsh,East
+E07000202,Ipswich,1,1,1,12,1,welsh_SpeaksWelsh,East
+E07000203,Mid Suffolk,1,1,1,10,1,welsh_SpeaksWelsh,East
+E07000207,Elmbridge,1,1,1,2,1,welsh_SpeaksWelsh,South East
+E07000208,Epsom and Ewell,1,1,1,9,1,welsh_SpeaksWelsh,South East
+E07000209,Guildford,1,1,1,8,1,welsh_SpeaksWelsh,South East
+E07000210,Mole Valley,1,1,1,7,1,welsh_SpeaksWelsh,South East
+E07000211,Reigate and Banstead,1,1,1,6,1,welsh_SpeaksWelsh,South East
+E07000212,Runnymede,1,1,1,5,1,welsh_SpeaksWelsh,South East
+E07000213,Spelthorne,1,1,1,4,1,welsh_SpeaksWelsh,South East
+E07000214,Surrey Heath,1,1,1,3,1,welsh_SpeaksWelsh,South East
+E07000215,Tandridge,1,1,1,19,1,welsh_SpeaksWelsh,South East
+E07000216,Waverley,1,1,1,20,1,welsh_SpeaksWelsh,South East
+E07000217,Woking,1,1,1,21,1,welsh_SpeaksWelsh,South East
+E07000218,North Warwickshire,1,1,1,22,1,welsh_SpeaksWelsh,West Midlands
+E07000219,Nuneaton and Bedworth,1,1,1,37,1,welsh_SpeaksWelsh,West Midlands
+E07000220,Rugby,1,1,1,36,1,welsh_SpeaksWelsh,West Midlands
+E07000221,Stratford-on-Avon,1,1,1,35,1,welsh_SpeaksWelsh,West Midlands
+E07000222,Warwick,1,1,1,34,1,welsh_SpeaksWelsh,West Midlands
+E07000223,Adur,1,1,1,33,1,welsh_SpeaksWelsh,South East
+E07000224,Arun,1,1,1,32,1,welsh_SpeaksWelsh,South East
+E07000225,Chichester,1,1,1,31,1,welsh_SpeaksWelsh,South East
+E07000226,Crawley,1,1,1,30,1,welsh_SpeaksWelsh,South East
+E07000227,Horsham,1,1,1,29,1,welsh_SpeaksWelsh,South East
+E07000228,Mid Sussex,1,1,1,28,1,welsh_SpeaksWelsh,South East
+E07000229,Worthing,1,1,1,27,1,welsh_SpeaksWelsh,South East
+E07000234,Bromsgrove,1,1,1,26,1,welsh_SpeaksWelsh,West Midlands
+E07000235,Malvern Hills,1,1,1,25,1,welsh_SpeaksWelsh,West Midlands
+E07000236,Redditch,1,1,1,24,1,welsh_SpeaksWelsh,West Midlands
+E07000237,Worcester,1,1,1,23,1,welsh_SpeaksWelsh,West Midlands
+E07000238,Wychavon,1,1,1,76,1,welsh_SpeaksWelsh,West Midlands
+E07000239,Wyre Forest,1,1,1,11,1,welsh_SpeaksWelsh,West Midlands
+E07000240,St Albans,1,1,1,77,1,welsh_SpeaksWelsh,East
+E07000241,Welwyn Hatfield,1,1,1,88,1,welsh_SpeaksWelsh,East
+E07000242,East Hertfordshire,1,1,1,133,1,welsh_SpeaksWelsh,East
+E07000243,Stevenage,1,1,1,132,1,welsh_SpeaksWelsh,East
+E07000244,East Suffolk,1,1,1,131,1,welsh_SpeaksWelsh,East
+E07000245,West Suffolk,1,1,1,130,1,welsh_SpeaksWelsh,East
+E07000246,Somerset West and Taunton,1,1,1,129,1,welsh_SpeaksWelsh,South West
+E08000001,Bolton,1,1,1,128,1,welsh_SpeaksWelsh,North West
+E08000002,Bury,1,1,1,127,1,welsh_SpeaksWelsh,North West
+E08000003,Manchester,1,1,1,126,1,welsh_SpeaksWelsh,North West
+E08000004,Oldham,1,1,1,125,1,welsh_SpeaksWelsh,North West
+E08000005,Rochdale,1,1,1,124,1,welsh_SpeaksWelsh,North West
+E08000006,Salford,1,1,1,123,1,welsh_SpeaksWelsh,North West
+E08000007,Stockport,1,1,1,122,1,welsh_SpeaksWelsh,North West
+E08000008,Tameside,1,1,1,121,1,welsh_SpeaksWelsh,North West
+E08000009,Trafford,1,1,1,120,1,welsh_SpeaksWelsh,North West
+E08000010,Wigan,1,1,1,119,1,welsh_SpeaksWelsh,North West
+E08000011,Knowsley,1,1,1,134,1,welsh_SpeaksWelsh,North West
+E08000012,Liverpool,1,1,1,118,1,welsh_SpeaksWelsh,North West
+E08000013,St. Helens,1,1,1,135,1,welsh_SpeaksWelsh,North West
+E08000014,Sefton,1,1,1,137,1,welsh_SpeaksWelsh,North West
+E08000015,Wirral,1,1,1,152,1,welsh_SpeaksWelsh,North West
+E08000016,Barnsley,1,1,1,151,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E08000017,Doncaster,1,1,1,150,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E08000018,Rotherham,1,1,1,149,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E08000019,Sheffield,1,1,1,148,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E08000021,Newcastle upon Tyne,1,1,1,147,1,welsh_SpeaksWelsh,North East
+E08000022,North Tyneside,1,1,1,146,1,welsh_SpeaksWelsh,North East
+E08000023,South Tyneside,1,1,1,145,1,welsh_SpeaksWelsh,North East
+E08000024,Sunderland,1,1,1,144,1,welsh_SpeaksWelsh,North East
+E08000025,Birmingham,1,1,1,143,1,welsh_SpeaksWelsh,West Midlands
+E08000026,Coventry,1,1,1,142,1,welsh_SpeaksWelsh,West Midlands
+E08000027,Dudley,1,1,1,141,1,welsh_SpeaksWelsh,West Midlands
+E08000028,Sandwell,1,1,1,140,1,welsh_SpeaksWelsh,West Midlands
+E08000029,Solihull,1,1,1,139,1,welsh_SpeaksWelsh,West Midlands
+E08000030,Walsall,1,1,1,138,1,welsh_SpeaksWelsh,West Midlands
+E08000031,Wolverhampton,1,1,1,136,1,welsh_SpeaksWelsh,West Midlands
+E08000032,Bradford,1,1,1,117,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E08000033,Calderdale,1,1,1,116,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E08000034,Kirklees,1,1,1,115,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E08000035,Leeds,1,1,1,95,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E08000036,Wakefield,1,1,1,94,1,welsh_SpeaksWelsh,Yorkshire and The Humber
+E08000037,Gateshead,1,1,1,93,1,welsh_SpeaksWelsh,North East
+E09000001,City of London,1,1,1,92,1,welsh_SpeaksWelsh,London
+E09000002,Barking and Dagenham,1,1,1,91,1,welsh_SpeaksWelsh,London
+E09000003,Barnet,1,1,1,90,1,welsh_SpeaksWelsh,London
+E09000004,Bexley,1,1,1,89,1,welsh_SpeaksWelsh,London
+E09000005,Brent,1,1,1,87,1,welsh_SpeaksWelsh,London
+E09000006,Bromley,1,1,1,79,1,welsh_SpeaksWelsh,London
+E09000007,Camden,1,1,1,86,1,welsh_SpeaksWelsh,London
+E09000008,Croydon,1,1,1,85,1,welsh_SpeaksWelsh,London
+E09000009,Ealing,1,1,1,84,1,welsh_SpeaksWelsh,London
+E09000010,Enfield,1,1,1,83,1,welsh_SpeaksWelsh,London
+E09000011,Greenwich,1,1,1,82,1,welsh_SpeaksWelsh,London
+E09000012,Hackney,1,1,1,81,1,welsh_SpeaksWelsh,London
+E09000013,Hammersmith and Fulham,1,1,1,80,1,welsh_SpeaksWelsh,London
+E09000014,Haringey,1,1,1,96,1,welsh_SpeaksWelsh,London
+E09000015,Harrow,1,1,1,97,1,welsh_SpeaksWelsh,London
+E09000016,Havering,1,1,1,98,1,welsh_SpeaksWelsh,London
+E09000017,Hillingdon,1,1,1,99,1,welsh_SpeaksWelsh,London
+E09000018,Hounslow,1,1,1,114,1,welsh_SpeaksWelsh,London
+E09000019,Islington,1,1,1,113,1,welsh_SpeaksWelsh,London
+E09000020,Kensington and Chelsea,1,1,1,112,1,welsh_SpeaksWelsh,London
+E09000021,Kingston upon Thames,1,1,1,111,1,welsh_SpeaksWelsh,London
+E09000022,Lambeth,1,1,1,110,1,welsh_SpeaksWelsh,London
+E09000023,Lewisham,1,1,1,109,1,welsh_SpeaksWelsh,London
+E09000024,Merton,1,1,1,108,1,welsh_SpeaksWelsh,London
+E09000025,Newham,1,1,1,107,1,welsh_SpeaksWelsh,London
+E09000026,Redbridge,1,1,1,106,1,welsh_SpeaksWelsh,London
+E09000027,Richmond upon Thames,1,1,1,105,1,welsh_SpeaksWelsh,London
+E09000028,Southwark,1,1,1,104,1,welsh_SpeaksWelsh,London
+E09000029,Sutton,1,1,1,103,1,welsh_SpeaksWelsh,London
+E09000030,Tower Hamlets,1,1,1,102,1,welsh_SpeaksWelsh,London
+E09000031,Waltham Forest,1,1,1,101,1,welsh_SpeaksWelsh,London
+E09000032,Wandsworth,1,1,1,100,1,welsh_SpeaksWelsh,London
+E09000033,Westminster,1,1,1,-1,1,welsh_SpeaksWelsh,London
 W06000001,Isle of Anglesey,59.85,57.21,-2.64,-4,-4,welsh_SpeaksWelsh,Wales
 W06000002,Gwynedd,68.69,65.37,-3.32,-3,-3,welsh_SpeaksWelsh,Wales
 W06000003,Conwy,29.2,27.39,-1.81,-8,-9,welsh_SpeaksWelsh,Wales
@@ -1315,313 +1315,313 @@ W06000021,Monmouthshire,9.02,9.91,0.89,1,1,welsh_SpeaksWelsh,Wales
 W06000022,Newport,9.57,9.3,-0.27,6,6,welsh_SpeaksWelsh,Wales
 W06000023,Powys,20.83,18.58,-2.25,-6,-6,welsh_SpeaksWelsh,Wales
 W06000024,Merthyr Tydfil,10.04,8.89,-1.15,10,10,welsh_SpeaksWelsh,Wales
-E06000001,Hartlepool,,,,-73,1,welsh_all,North East
-E06000002,Middlesbrough,,,,-43,1,welsh_all,North East
-E06000003,Redcar and Cleveland,,,,-5,1,welsh_all,North East
-E06000004,Stockton-on-Tees,,,,128,1,welsh_all,North East
-E06000005,Darlington,,,,118,1,welsh_all,North East
-E06000006,Halton,,,,-153,1,welsh_all,North West
-E06000007,Warrington,,,,-132,1,welsh_all,North West
-E06000008,Blackburn with Darwen,,,,130,1,welsh_all,North West
-E06000009,Blackpool,,,,-13,1,welsh_all,North West
-E06000010,"Kingston upon Hull, City of",,,,-108,1,welsh_all,Yorkshire and The Humber
-E06000011,East Riding of Yorkshire,,,,-154,1,welsh_all,Yorkshire and The Humber
-E06000012,North East Lincolnshire,,,,-19,1,welsh_all,Yorkshire and The Humber
-E06000013,North Lincolnshire,,,,79,1,welsh_all,Yorkshire and The Humber
-E06000014,York,,,,81,1,welsh_all,Yorkshire and The Humber
-E06000015,Derby,,,,47,1,welsh_all,East Midlands
-E06000016,Leicester,,,,12,1,welsh_all,East Midlands
-E06000017,Rutland,,,,110,1,welsh_all,East Midlands
-E06000018,Nottingham,,,,27,1,welsh_all,East Midlands
-E06000019,"Herefordshire, County of",,,,-90,1,welsh_all,West Midlands
-E06000020,Telford and Wrekin,,,,-107,1,welsh_all,West Midlands
-E06000021,Stoke-on-Trent,,,,-66,1,welsh_all,West Midlands
-E06000022,Bath and North East Somerset,,,,-77,1,welsh_all,South West
-E06000023,"Bristol, City of",,,,43,1,welsh_all,South West
-E06000024,North Somerset,,,,127,1,welsh_all,South West
-E06000025,South Gloucestershire,,,,139,1,welsh_all,South West
-E06000026,Plymouth,,,,150,1,welsh_all,South West
-E06000027,Torbay,,,,-17,1,welsh_all,South West
-E06000030,Swindon,,,,19,1,welsh_all,South West
-E06000031,Peterborough,,,,16,1,welsh_all,East
-E06000032,Luton,,,,70,1,welsh_all,East
-E06000033,Southend-on-Sea,,,,103,1,welsh_all,East
-E06000034,Thurrock,,,,71,1,welsh_all,East
-E06000035,Medway,,,,-127,1,welsh_all,South East
-E06000036,Bracknell Forest,,,,-58,1,welsh_all,South East
-E06000037,West Berkshire,,,,152,1,welsh_all,South East
-E06000038,Reading,,,,95,1,welsh_all,South East
-E06000039,Slough,,,,13,1,welsh_all,South East
-E06000040,Windsor and Maidenhead,,,,108,1,welsh_all,South East
-E06000041,Wokingham,,,,-46,1,welsh_all,South East
-E06000042,Milton Keynes,,,,6,1,welsh_all,South East
-E06000043,Brighton and Hove,,,,69,1,welsh_all,South East
-E06000044,Portsmouth,,,,74,1,welsh_all,South East
-E06000045,Southampton,,,,90,1,welsh_all,South East
-E06000046,Isle of Wight,,,,-78,1,welsh_all,South East
-E06000047,County Durham,,,,-74,1,welsh_all,North East
-E06000049,Cheshire East,,,,-102,1,welsh_all,North West
-E06000050,Cheshire West and Chester,,,,-36,1,welsh_all,North West
-E06000051,Shropshire,,,,112,1,welsh_all,West Midlands
-E06000052,Cornwall,,,,148,1,welsh_all,South West
-E06000053,Isles of Scilly,,,,-34,1,welsh_all,South West
-E06000054,Wiltshire,,,,96,1,welsh_all,South West
-E06000055,Bedford,,,,151,1,welsh_all,East
-E06000056,Central Bedfordshire,,,,94,1,welsh_all,East
-E06000057,Northumberland,,,,-48,1,welsh_all,North East
-E06000058,"Bournemouth, Christchurch and Poole",,,,83,1,welsh_all,South West
-E06000059,Dorset,,,,-119,1,welsh_all,South West
-E06000060,Buckinghamshire,,,,-118,1,welsh_all,South East
-E07000008,Cambridge,,,,35,1,welsh_all,East
-E07000009,East Cambridgeshire,,,,28,1,welsh_all,East
-E07000010,Fenland,,,,32,1,welsh_all,East
-E07000011,Huntingdonshire,,,,115,1,welsh_all,East
-E07000012,South Cambridgeshire,,,,30,1,welsh_all,East
-E07000026,Allerdale,,,,-55,1,welsh_all,North West
-E07000027,Barrow-in-Furness,,,,-1,1,welsh_all,North West
-E07000028,Carlisle,,,,146,1,welsh_all,North West
-E07000029,Copeland,,,,-29,1,welsh_all,North West
-E07000030,Eden,,,,-121,1,welsh_all,North West
-E07000031,South Lakeland,,,,-20,1,welsh_all,North West
-E07000032,Amber Valley,,,,-94,1,welsh_all,East Midlands
-E07000033,Bolsover,,,,-122,1,welsh_all,East Midlands
-E07000034,Chesterfield,,,,-93,1,welsh_all,East Midlands
-E07000035,Derbyshire Dales,,,,-35,1,welsh_all,East Midlands
-E07000036,Erewash,,,,-28,1,welsh_all,East Midlands
-E07000037,High Peak,,,,-25,1,welsh_all,East Midlands
-E07000038,North East Derbyshire,,,,-33,1,welsh_all,East Midlands
-E07000039,South Derbyshire,,,,20,1,welsh_all,East Midlands
-E07000040,East Devon,,,,-120,1,welsh_all,South West
-E07000041,Exeter,,,,-140,1,welsh_all,South West
-E07000042,Mid Devon,,,,55,1,welsh_all,South West
-E07000043,North Devon,,,,138,1,welsh_all,South West
-E07000044,South Hams,,,,-23,1,welsh_all,South West
-E07000045,Teignbridge,,,,-45,1,welsh_all,South West
-E07000046,Torridge,,,,104,1,welsh_all,South West
-E07000047,West Devon,,,,77,1,welsh_all,South West
-E07000061,Eastbourne,,,,61,1,welsh_all,South East
-E07000062,Hastings,,,,-145,1,welsh_all,South East
-E07000063,Lewes,,,,-126,1,welsh_all,South East
-E07000064,Rother,,,,-142,1,welsh_all,South East
-E07000065,Wealden,,,,-152,1,welsh_all,South East
-E07000066,Basildon,,,,-111,1,welsh_all,East
-E07000067,Braintree,,,,57,1,welsh_all,East
-E07000068,Brentwood,,,,125,1,welsh_all,East
-E07000069,Castle Point,,,,-24,1,welsh_all,East
-E07000070,Chelmsford,,,,136,1,welsh_all,East
-E07000071,Colchester,,,,60,1,welsh_all,East
-E07000072,Epping Forest,,,,-53,1,welsh_all,East
-E07000073,Harlow,,,,-75,1,welsh_all,East
-E07000074,Maldon,,,,-72,1,welsh_all,East
-E07000075,Rochford,,,,-143,1,welsh_all,East
-E07000076,Tendring,,,,-11,1,welsh_all,East
-E07000077,Uttlesford,,,,24,1,welsh_all,East
-E07000078,Cheltenham,,,,-103,1,welsh_all,South West
-E07000079,Cotswold,,,,-54,1,welsh_all,South West
-E07000080,Forest of Dean,,,,-40,1,welsh_all,South West
-E07000081,Gloucester,,,,63,1,welsh_all,South West
-E07000082,Stroud,,,,-81,1,welsh_all,South West
-E07000083,Tewkesbury,,,,133,1,welsh_all,South West
-E07000084,Basingstoke and Deane,,,,72,1,welsh_all,South East
-E07000085,East Hampshire,,,,-131,1,welsh_all,South East
-E07000086,Eastleigh,,,,120,1,welsh_all,South East
-E07000087,Fareham,,,,-62,1,welsh_all,South East
-E07000088,Gosport,,,,111,1,welsh_all,South East
-E07000089,Hart,,,,88,1,welsh_all,South East
-E07000090,Havant,,,,-59,1,welsh_all,South East
-E07000091,New Forest,,,,-79,1,welsh_all,South East
-E07000092,Rushmoor,,,,-52,1,welsh_all,South East
-E07000093,Test Valley,,,,-138,1,welsh_all,South East
-E07000094,Winchester,,,,97,1,welsh_all,South East
-E07000095,Broxbourne,,,,124,1,welsh_all,East
-E07000096,Dacorum,,,,-98,1,welsh_all,East
-E07000098,Hertsmere,,,,-134,1,welsh_all,East
-E07000099,North Hertfordshire,,,,98,1,welsh_all,East
-E07000102,Three Rivers,,,,-113,1,welsh_all,East
-E07000103,Watford,,,,40,1,welsh_all,East
-E07000105,Ashford,,,,25,1,welsh_all,South East
-E07000106,Canterbury,,,,51,1,welsh_all,South East
-E07000107,Dartford,,,,37,1,welsh_all,South East
-E07000108,Dover,,,,145,1,welsh_all,South East
-E07000109,Gravesham,,,,-150,1,welsh_all,South East
-E07000110,Maidstone,,,,53,1,welsh_all,South East
-E07000111,Sevenoaks,,,,-96,1,welsh_all,South East
-E07000112,Folkestone and Hythe,,,,48,1,welsh_all,South East
-E07000113,Swale,,,,64,1,welsh_all,South East
-E07000114,Thanet,,,,-135,1,welsh_all,South East
-E07000115,Tonbridge and Malling,,,,45,1,welsh_all,South East
-E07000116,Tunbridge Wells,,,,65,1,welsh_all,South East
-E07000117,Burnley,,,,-6,1,welsh_all,North West
-E07000118,Chorley,,,,147,1,welsh_all,North West
-E07000119,Fylde,,,,-65,1,welsh_all,North West
-E07000120,Hyndburn,,,,-8,1,welsh_all,North West
-E07000121,Lancaster,,,,-60,1,welsh_all,North West
-E07000122,Pendle,,,,-14,1,welsh_all,North West
-E07000123,Preston,,,,109,1,welsh_all,North West
-E07000124,Ribble Valley,,,,-133,1,welsh_all,North West
-E07000125,Rossendale,,,,-69,1,welsh_all,North West
-E07000126,South Ribble,,,,-92,1,welsh_all,North West
-E07000127,West Lancashire,,,,-32,1,welsh_all,North West
-E07000128,Wyre,,,,-30,1,welsh_all,North West
-E07000129,Blaby,,,,-76,1,welsh_all,East Midlands
-E07000130,Charnwood,,,,106,1,welsh_all,East Midlands
-E07000131,Harborough,,,,54,1,welsh_all,East Midlands
-E07000132,Hinckley and Bosworth,,,,-91,1,welsh_all,East Midlands
-E07000133,Melton,,,,-105,1,welsh_all,East Midlands
-E07000134,North West Leicestershire,,,,82,1,welsh_all,East Midlands
-E07000135,Oadby and Wigston,,,,-16,1,welsh_all,East Midlands
-E07000136,Boston,,,,21,1,welsh_all,East Midlands
-E07000137,East Lindsey,,,,-82,1,welsh_all,East Midlands
-E07000138,Lincoln,,,,85,1,welsh_all,East Midlands
-E07000139,North Kesteven,,,,26,1,welsh_all,East Midlands
-E07000140,South Holland,,,,23,1,welsh_all,East Midlands
-E07000141,South Kesteven,,,,135,1,welsh_all,East Midlands
-E07000142,West Lindsey,,,,46,1,welsh_all,East Midlands
-E07000143,Breckland,,,,126,1,welsh_all,East
-E07000144,Broadland,,,,-101,1,welsh_all,East
-E07000145,Great Yarmouth,,,,137,1,welsh_all,East
-E07000146,King's Lynn and West Norfolk,,,,92,1,welsh_all,East
-E07000147,North Norfolk,,,,-57,1,welsh_all,East
-E07000148,Norwich,,,,89,1,welsh_all,East
-E07000149,South Norfolk,,,,49,1,welsh_all,East
-E07000163,Craven,,,,-61,1,welsh_all,Yorkshire and The Humber
-E07000164,Hambleton,,,,-137,1,welsh_all,Yorkshire and The Humber
-E07000165,Harrogate,,,,-80,1,welsh_all,Yorkshire and The Humber
-E07000166,Richmondshire,,,,66,1,welsh_all,Yorkshire and The Humber
-E07000167,Ryedale,,,,-26,1,welsh_all,Yorkshire and The Humber
-E07000168,Scarborough,,,,-38,1,welsh_all,Yorkshire and The Humber
-E07000169,Selby,,,,86,1,welsh_all,Yorkshire and The Humber
-E07000170,Ashfield,,,,131,1,welsh_all,East Midlands
-E07000171,Bassetlaw,,,,-89,1,welsh_all,East Midlands
-E07000172,Broxtowe,,,,-27,1,welsh_all,East Midlands
-E07000173,Gedling,,,,-22,1,welsh_all,East Midlands
-E07000174,Mansfield,,,,153,1,welsh_all,East Midlands
-E07000175,Newark and Sherwood,,,,114,1,welsh_all,East Midlands
-E07000176,Rushcliffe,,,,-106,1,welsh_all,East Midlands
-E07000177,Cherwell,,,,122,1,welsh_all,South East
-E07000178,Oxford,,,,41,1,welsh_all,South East
-E07000179,South Oxfordshire,,,,-86,1,welsh_all,South East
-E07000180,Vale of White Horse,,,,-83,1,welsh_all,South East
-E07000181,West Oxfordshire,,,,78,1,welsh_all,South East
-E07000187,Mendip,,,,-104,1,welsh_all,South West
-E07000188,Sedgemoor,,,,107,1,welsh_all,South West
-E07000189,South Somerset,,,,143,1,welsh_all,South West
-E07000192,Cannock Chase,,,,-129,1,welsh_all,West Midlands
-E07000193,East Staffordshire,,,,80,1,welsh_all,West Midlands
-E07000194,Lichfield,,,,116,1,welsh_all,West Midlands
-E07000195,Newcastle-under-Lyme,,,,-21,1,welsh_all,West Midlands
-E07000196,South Staffordshire,,,,-31,1,welsh_all,West Midlands
-E07000197,Stafford,,,,102,1,welsh_all,West Midlands
-E07000198,Staffordshire Moorlands,,,,-47,1,welsh_all,West Midlands
-E07000199,Tamworth,,,,-50,1,welsh_all,West Midlands
-E07000200,Babergh,,,,-99,1,welsh_all,East
-E07000202,Ipswich,,,,33,1,welsh_all,East
-E07000203,Mid Suffolk,,,,56,1,welsh_all,East
-E07000207,Elmbridge,,,,129,1,welsh_all,South East
-E07000208,Epsom and Ewell,,,,50,1,welsh_all,South East
-E07000209,Guildford,,,,-124,1,welsh_all,South East
-E07000210,Mole Valley,,,,-151,1,welsh_all,South East
-E07000211,Reigate and Banstead,,,,91,1,welsh_all,South East
-E07000212,Runnymede,,,,-56,1,welsh_all,South East
-E07000213,Spelthorne,,,,-123,1,welsh_all,South East
-E07000214,Surrey Heath,,,,132,1,welsh_all,South East
-E07000215,Tandridge,,,,-85,1,welsh_all,South East
-E07000216,Waverley,,,,-97,1,welsh_all,South East
-E07000217,Woking,,,,68,1,welsh_all,South East
-E07000218,North Warwickshire,,,,-15,1,welsh_all,West Midlands
-E07000219,Nuneaton and Bedworth,,,,-100,1,welsh_all,West Midlands
-E07000220,Rugby,,,,29,1,welsh_all,West Midlands
-E07000221,Stratford-on-Avon,,,,113,1,welsh_all,West Midlands
-E07000222,Warwick,,,,84,1,welsh_all,West Midlands
-E07000223,Adur,,,,-42,1,welsh_all,South East
-E07000224,Arun,,,,-146,1,welsh_all,South East
-E07000225,Chichester,,,,140,1,welsh_all,South East
-E07000226,Crawley,,,,141,1,welsh_all,South East
-E07000227,Horsham,,,,123,1,welsh_all,South East
-E07000228,Mid Sussex,,,,76,1,welsh_all,South East
-E07000229,Worthing,,,,134,1,welsh_all,South East
-E07000234,Bromsgrove,,,,149,1,welsh_all,West Midlands
-E07000235,Malvern Hills,,,,-64,1,welsh_all,West Midlands
-E07000236,Redditch,,,,142,1,welsh_all,West Midlands
-E07000237,Worcester,,,,-130,1,welsh_all,West Midlands
-E07000238,Wychavon,,,,-68,1,welsh_all,West Midlands
-E07000239,Wyre Forest,,,,-18,1,welsh_all,West Midlands
-E07000240,St Albans,,,,87,1,welsh_all,East
-E07000241,Welwyn Hatfield,,,,38,1,welsh_all,East
-E07000242,East Hertfordshire,,,,144,1,welsh_all,East
-E07000243,Stevenage,,,,-110,1,welsh_all,East
-E07000244,East Suffolk,,,,-109,1,welsh_all,East
-E07000245,West Suffolk,,,,59,1,welsh_all,East
-E07000246,Somerset West and Taunton,,,,-117,1,welsh_all,South West
-E08000001,Bolton,,,,-139,1,welsh_all,North West
-E08000002,Bury,,,,-39,1,welsh_all,North West
-E08000003,Manchester,,,,2,1,welsh_all,North West
-E08000004,Oldham,,,,-67,1,welsh_all,North West
-E08000005,Rochdale,,,,-51,1,welsh_all,North West
-E08000006,Salford,,,,105,1,welsh_all,North West
-E08000007,Stockport,,,,-10,1,welsh_all,North West
-E08000008,Tameside,,,,-49,1,welsh_all,North West
-E08000009,Trafford,,,,119,1,welsh_all,North West
-E08000010,Wigan,,,,-116,1,welsh_all,North West
-E08000011,Knowsley,,,,-4,1,welsh_all,North West
-E08000012,Liverpool,,,,-144,1,welsh_all,North West
-E08000013,St. Helens,,,,-9,1,welsh_all,North West
-E08000014,Sefton,,,,-2,1,welsh_all,North West
-E08000015,Wirral,,,,-37,1,welsh_all,North West
-E08000016,Barnsley,,,,-141,1,welsh_all,Yorkshire and The Humber
-E08000017,Doncaster,,,,-114,1,welsh_all,Yorkshire and The Humber
-E08000018,Rotherham,,,,-71,1,welsh_all,Yorkshire and The Humber
-E08000019,Sheffield,,,,121,1,welsh_all,Yorkshire and The Humber
-E08000021,Newcastle upon Tyne,,,,117,1,welsh_all,North East
-E08000022,North Tyneside,,,,-88,1,welsh_all,North East
-E08000023,South Tyneside,,,,-3,1,welsh_all,North East
-E08000024,Sunderland,,,,-7,1,welsh_all,North East
-E08000025,Birmingham,,,,75,1,welsh_all,West Midlands
-E08000026,Coventry,,,,-112,1,welsh_all,West Midlands
-E08000027,Dudley,,,,-41,1,welsh_all,West Midlands
-E08000028,Sandwell,,,,93,1,welsh_all,West Midlands
-E08000029,Solihull,,,,-70,1,welsh_all,West Midlands
-E08000030,Walsall,,,,-147,1,welsh_all,West Midlands
-E08000031,Wolverhampton,,,,-115,1,welsh_all,West Midlands
-E08000032,Bradford,,,,52,1,welsh_all,Yorkshire and The Humber
-E08000033,Calderdale,,,,-136,1,welsh_all,Yorkshire and The Humber
-E08000034,Kirklees,,,,99,1,welsh_all,Yorkshire and The Humber
-E08000035,Leeds,,,,-95,1,welsh_all,Yorkshire and The Humber
-E08000036,Wakefield,,,,-63,1,welsh_all,Yorkshire and The Humber
-E08000037,Gateshead,,,,-87,1,welsh_all,North East
-E09000001,City of London,,,,-44,1,welsh_all,London
-E09000002,Barking and Dagenham,,,,36,1,welsh_all,London
-E09000003,Barnet,,,,39,1,welsh_all,London
-E09000004,Bexley,,,,-148,1,welsh_all,London
-E09000005,Brent,,,,10,1,welsh_all,London
-E09000006,Bromley,,,,-84,1,welsh_all,London
-E09000007,Camden,,,,58,1,welsh_all,London
-E09000008,Croydon,,,,73,1,welsh_all,London
-E09000009,Ealing,,,,44,1,welsh_all,London
-E09000010,Enfield,,,,31,1,welsh_all,London
-E09000011,Greenwich,,,,8,1,welsh_all,London
-E09000012,Hackney,,,,4,1,welsh_all,London
-E09000013,Hammersmith and Fulham,,,,67,1,welsh_all,London
-E09000014,Haringey,,,,14,1,welsh_all,London
-E09000015,Harrow,,,,22,1,welsh_all,London
-E09000016,Havering,,,,-128,1,welsh_all,London
-E09000017,Hillingdon,,,,42,1,welsh_all,London
-E09000018,Hounslow,,,,7,1,welsh_all,London
-E09000019,Islington,,,,17,1,welsh_all,London
-E09000020,Kensington and Chelsea,,,,-12,1,welsh_all,London
-E09000021,Kingston upon Thames,,,,100,1,welsh_all,London
-E09000022,Lambeth,,,,34,1,welsh_all,London
-E09000023,Lewisham,,,,62,1,welsh_all,London
-E09000024,Merton,,,,-149,1,welsh_all,London
-E09000025,Newham,,,,3,1,welsh_all,London
-E09000026,Redbridge,,,,18,1,welsh_all,London
-E09000027,Richmond upon Thames,,,,101,1,welsh_all,London
-E09000028,Southwark,,,,15,1,welsh_all,London
-E09000029,Sutton,,,,-125,1,welsh_all,London
-E09000030,Tower Hamlets,,,,1,1,welsh_all,London
-E09000031,Waltham Forest,,,,9,1,welsh_all,London
-E09000032,Wandsworth,,,,11,1,welsh_all,London
-E09000033,Westminster,,,,5,1,welsh_all,London
+E06000001,Hartlepool,1,1,1,1,1,welsh_all,North East
+E06000002,Middlesbrough,1,1,1,-153,1,welsh_all,North East
+E06000003,Redcar and Cleveland,1,1,1,-98,1,welsh_all,North East
+E06000004,Stockton-on-Tees,1,1,1,-99,1,welsh_all,North East
+E06000005,Darlington,1,1,1,-100,1,welsh_all,North East
+E06000006,Halton,1,1,1,-101,1,welsh_all,North West
+E06000007,Warrington,1,1,1,-102,1,welsh_all,North West
+E06000008,Blackburn with Darwen,1,1,1,-103,1,welsh_all,North West
+E06000009,Blackpool,1,1,1,-104,1,welsh_all,North West
+E06000010,"Kingston upon Hull, City of",1,1,1,-105,1,welsh_all,Yorkshire and The Humber
+E06000011,East Riding of Yorkshire,1,1,1,-106,1,welsh_all,Yorkshire and The Humber
+E06000012,North East Lincolnshire,1,1,1,-107,1,welsh_all,Yorkshire and The Humber
+E06000013,North Lincolnshire,1,1,1,-108,1,welsh_all,Yorkshire and The Humber
+E06000014,York,1,1,1,-109,1,welsh_all,Yorkshire and The Humber
+E06000015,Derby,1,1,1,-110,1,welsh_all,East Midlands
+E06000016,Leicester,1,1,1,-111,1,welsh_all,East Midlands
+E06000017,Rutland,1,1,1,-112,1,welsh_all,East Midlands
+E06000018,Nottingham,1,1,1,-97,1,welsh_all,East Midlands
+E06000019,"Herefordshire, County of",1,1,1,-113,1,welsh_all,West Midlands
+E06000020,Telford and Wrekin,1,1,1,-96,1,welsh_all,West Midlands
+E06000021,Stoke-on-Trent,1,1,1,-94,1,welsh_all,West Midlands
+E06000022,Bath and North East Somerset,1,1,1,-79,1,welsh_all,South West
+E06000023,"Bristol, City of",1,1,1,-80,1,welsh_all,South West
+E06000024,North Somerset,1,1,1,-81,1,welsh_all,South West
+E06000025,South Gloucestershire,1,1,1,-82,1,welsh_all,South West
+E06000026,Plymouth,1,1,1,-83,1,welsh_all,South West
+E06000027,Torbay,1,1,1,-84,1,welsh_all,South West
+E06000030,Swindon,1,1,1,-85,1,welsh_all,South West
+E06000031,Peterborough,1,1,1,-86,1,welsh_all,East
+E06000032,Luton,1,1,1,-87,1,welsh_all,East
+E06000033,Southend-on-Sea,1,1,1,-88,1,welsh_all,East
+E06000034,Thurrock,1,1,1,-89,1,welsh_all,East
+E06000035,Medway,1,1,1,-90,1,welsh_all,South East
+E06000036,Bracknell Forest,1,1,1,-91,1,welsh_all,South East
+E06000037,West Berkshire,1,1,1,-92,1,welsh_all,South East
+E06000038,Reading,1,1,1,-93,1,welsh_all,South East
+E06000039,Slough,1,1,1,-95,1,welsh_all,South East
+E06000040,Windsor and Maidenhead,1,1,1,-114,1,welsh_all,South East
+E06000041,Wokingham,1,1,1,-115,1,welsh_all,South East
+E06000042,Milton Keynes,1,1,1,-116,1,welsh_all,South East
+E06000043,Brighton and Hove,1,1,1,-136,1,welsh_all,South East
+E06000044,Portsmouth,1,1,1,-137,1,welsh_all,South East
+E06000045,Southampton,1,1,1,-138,1,welsh_all,South East
+E06000046,Isle of Wight,1,1,1,-139,1,welsh_all,South East
+E06000047,County Durham,1,1,1,-140,1,welsh_all,North East
+E06000049,Cheshire East,1,1,1,-141,1,welsh_all,North West
+E06000050,Cheshire West and Chester,1,1,1,-142,1,welsh_all,North West
+E06000051,Shropshire,1,1,1,-144,1,welsh_all,West Midlands
+E06000052,Cornwall,1,1,1,-152,1,welsh_all,South West
+E06000053,Isles of Scilly,1,1,1,-145,1,welsh_all,South West
+E06000054,Wiltshire,1,1,1,-146,1,welsh_all,South West
+E06000055,Bedford,1,1,1,-147,1,welsh_all,East
+E06000056,Central Bedfordshire,1,1,1,-148,1,welsh_all,East
+E06000057,Northumberland,1,1,1,-149,1,welsh_all,North East
+E06000058,"Bournemouth, Christchurch and Poole",1,1,1,-150,1,welsh_all,South West
+E06000059,Dorset,1,1,1,-151,1,welsh_all,South West
+E06000060,Buckinghamshire,1,1,1,-135,1,welsh_all,South East
+E07000008,Cambridge,1,1,1,-134,1,welsh_all,East
+E07000009,East Cambridgeshire,1,1,1,-133,1,welsh_all,East
+E07000010,Fenland,1,1,1,-132,1,welsh_all,East
+E07000011,Huntingdonshire,1,1,1,-117,1,welsh_all,East
+E07000012,South Cambridgeshire,1,1,1,-118,1,welsh_all,East
+E07000026,Allerdale,1,1,1,-119,1,welsh_all,North West
+E07000027,Barrow-in-Furness,1,1,1,-120,1,welsh_all,North West
+E07000028,Carlisle,1,1,1,-121,1,welsh_all,North West
+E07000029,Copeland,1,1,1,-122,1,welsh_all,North West
+E07000030,Eden,1,1,1,-123,1,welsh_all,North West
+E07000031,South Lakeland,1,1,1,-124,1,welsh_all,North West
+E07000032,Amber Valley,1,1,1,-125,1,welsh_all,East Midlands
+E07000033,Bolsover,1,1,1,-126,1,welsh_all,East Midlands
+E07000034,Chesterfield,1,1,1,-127,1,welsh_all,East Midlands
+E07000035,Derbyshire Dales,1,1,1,-128,1,welsh_all,East Midlands
+E07000036,Erewash,1,1,1,-129,1,welsh_all,East Midlands
+E07000037,High Peak,1,1,1,-130,1,welsh_all,East Midlands
+E07000038,North East Derbyshire,1,1,1,-131,1,welsh_all,East Midlands
+E07000039,South Derbyshire,1,1,1,-78,1,welsh_all,East Midlands
+E07000040,East Devon,1,1,1,-143,1,welsh_all,South West
+E07000041,Exeter,1,1,1,-77,1,welsh_all,South West
+E07000042,Mid Devon,1,1,1,-66,1,welsh_all,South West
+E07000043,North Devon,1,1,1,-21,1,welsh_all,South West
+E07000044,South Hams,1,1,1,-22,1,welsh_all,South West
+E07000045,Teignbridge,1,1,1,-23,1,welsh_all,South West
+E07000046,Torridge,1,1,1,-24,1,welsh_all,South West
+E07000047,West Devon,1,1,1,-25,1,welsh_all,South West
+E07000061,Eastbourne,1,1,1,-26,1,welsh_all,South East
+E07000062,Hastings,1,1,1,-27,1,welsh_all,South East
+E07000063,Lewes,1,1,1,-28,1,welsh_all,South East
+E07000064,Rother,1,1,1,-29,1,welsh_all,South East
+E07000065,Wealden,1,1,1,-30,1,welsh_all,South East
+E07000066,Basildon,1,1,1,-31,1,welsh_all,East
+E07000067,Braintree,1,1,1,-32,1,welsh_all,East
+E07000068,Brentwood,1,1,1,-33,1,welsh_all,East
+E07000069,Castle Point,1,1,1,-34,1,welsh_all,East
+E07000070,Chelmsford,1,1,1,-35,1,welsh_all,East
+E07000071,Colchester,1,1,1,-20,1,welsh_all,East
+E07000072,Epping Forest,1,1,1,-36,1,welsh_all,East
+E07000073,Harlow,1,1,1,-19,1,welsh_all,East
+E07000074,Maldon,1,1,1,-17,1,welsh_all,East
+E07000075,Rochford,1,1,1,-2,1,welsh_all,East
+E07000076,Tendring,1,1,1,-3,1,welsh_all,East
+E07000077,Uttlesford,1,1,1,-4,1,welsh_all,East
+E07000078,Cheltenham,1,1,1,-5,1,welsh_all,South West
+E07000079,Cotswold,1,1,1,-6,1,welsh_all,South West
+E07000080,Forest of Dean,1,1,1,-7,1,welsh_all,South West
+E07000081,Gloucester,1,1,1,-8,1,welsh_all,South West
+E07000082,Stroud,1,1,1,-9,1,welsh_all,South West
+E07000083,Tewkesbury,1,1,1,-10,1,welsh_all,South West
+E07000084,Basingstoke and Deane,1,1,1,-11,1,welsh_all,South East
+E07000085,East Hampshire,1,1,1,-12,1,welsh_all,South East
+E07000086,Eastleigh,1,1,1,-13,1,welsh_all,South East
+E07000087,Fareham,1,1,1,-14,1,welsh_all,South East
+E07000088,Gosport,1,1,1,-15,1,welsh_all,South East
+E07000089,Hart,1,1,1,-16,1,welsh_all,South East
+E07000090,Havant,1,1,1,-18,1,welsh_all,South East
+E07000091,New Forest,1,1,1,-37,1,welsh_all,South East
+E07000092,Rushmoor,1,1,1,-38,1,welsh_all,South East
+E07000093,Test Valley,1,1,1,-39,1,welsh_all,South East
+E07000094,Winchester,1,1,1,-59,1,welsh_all,South East
+E07000095,Broxbourne,1,1,1,-60,1,welsh_all,East
+E07000096,Dacorum,1,1,1,-61,1,welsh_all,East
+E07000098,Hertsmere,1,1,1,-62,1,welsh_all,East
+E07000099,North Hertfordshire,1,1,1,-63,1,welsh_all,East
+E07000102,Three Rivers,1,1,1,-64,1,welsh_all,East
+E07000103,Watford,1,1,1,-65,1,welsh_all,East
+E07000105,Ashford,1,1,1,-67,1,welsh_all,South East
+E07000106,Canterbury,1,1,1,-75,1,welsh_all,South East
+E07000107,Dartford,1,1,1,-68,1,welsh_all,South East
+E07000108,Dover,1,1,1,-69,1,welsh_all,South East
+E07000109,Gravesham,1,1,1,-70,1,welsh_all,South East
+E07000110,Maidstone,1,1,1,-71,1,welsh_all,South East
+E07000111,Sevenoaks,1,1,1,-72,1,welsh_all,South East
+E07000112,Folkestone and Hythe,1,1,1,-73,1,welsh_all,South East
+E07000113,Swale,1,1,1,-74,1,welsh_all,South East
+E07000114,Thanet,1,1,1,-58,1,welsh_all,South East
+E07000115,Tonbridge and Malling,1,1,1,-57,1,welsh_all,South East
+E07000116,Tunbridge Wells,1,1,1,-56,1,welsh_all,South East
+E07000117,Burnley,1,1,1,-55,1,welsh_all,North West
+E07000118,Chorley,1,1,1,-40,1,welsh_all,North West
+E07000119,Fylde,1,1,1,-41,1,welsh_all,North West
+E07000120,Hyndburn,1,1,1,-42,1,welsh_all,North West
+E07000121,Lancaster,1,1,1,-43,1,welsh_all,North West
+E07000122,Pendle,1,1,1,-44,1,welsh_all,North West
+E07000123,Preston,1,1,1,-45,1,welsh_all,North West
+E07000124,Ribble Valley,1,1,1,-46,1,welsh_all,North West
+E07000125,Rossendale,1,1,1,-47,1,welsh_all,North West
+E07000126,South Ribble,1,1,1,-48,1,welsh_all,North West
+E07000127,West Lancashire,1,1,1,-49,1,welsh_all,North West
+E07000128,Wyre,1,1,1,-50,1,welsh_all,North West
+E07000129,Blaby,1,1,1,-51,1,welsh_all,East Midlands
+E07000130,Charnwood,1,1,1,-52,1,welsh_all,East Midlands
+E07000131,Harborough,1,1,1,-53,1,welsh_all,East Midlands
+E07000132,Hinckley and Bosworth,1,1,1,-54,1,welsh_all,East Midlands
+E07000133,Melton,1,1,1,-76,1,welsh_all,East Midlands
+E07000134,North West Leicestershire,1,1,1,-154,1,welsh_all,East Midlands
+E07000135,Oadby and Wigston,1,1,1,78,1,welsh_all,East Midlands
+E07000136,Boston,1,1,1,153,1,welsh_all,East Midlands
+E07000137,East Lindsey,1,1,1,56,1,welsh_all,East Midlands
+E07000138,Lincoln,1,1,1,55,1,welsh_all,East Midlands
+E07000139,North Kesteven,1,1,1,54,1,welsh_all,East Midlands
+E07000140,South Holland,1,1,1,53,1,welsh_all,East Midlands
+E07000141,South Kesteven,1,1,1,52,1,welsh_all,East Midlands
+E07000142,West Lindsey,1,1,1,51,1,welsh_all,East Midlands
+E07000143,Breckland,1,1,1,50,1,welsh_all,East
+E07000144,Broadland,1,1,1,49,1,welsh_all,East
+E07000145,Great Yarmouth,1,1,1,48,1,welsh_all,East
+E07000146,King's Lynn and West Norfolk,1,1,1,47,1,welsh_all,East
+E07000147,North Norfolk,1,1,1,46,1,welsh_all,East
+E07000148,Norwich,1,1,1,45,1,welsh_all,East
+E07000149,South Norfolk,1,1,1,44,1,welsh_all,East
+E07000163,Craven,1,1,1,43,1,welsh_all,Yorkshire and The Humber
+E07000164,Hambleton,1,1,1,42,1,welsh_all,Yorkshire and The Humber
+E07000165,Harrogate,1,1,1,57,1,welsh_all,Yorkshire and The Humber
+E07000166,Richmondshire,1,1,1,41,1,welsh_all,Yorkshire and The Humber
+E07000167,Ryedale,1,1,1,58,1,welsh_all,Yorkshire and The Humber
+E07000168,Scarborough,1,1,1,60,1,welsh_all,Yorkshire and The Humber
+E07000169,Selby,1,1,1,75,1,welsh_all,Yorkshire and The Humber
+E07000170,Ashfield,1,1,1,74,1,welsh_all,East Midlands
+E07000171,Bassetlaw,1,1,1,73,1,welsh_all,East Midlands
+E07000172,Broxtowe,1,1,1,72,1,welsh_all,East Midlands
+E07000173,Gedling,1,1,1,71,1,welsh_all,East Midlands
+E07000174,Mansfield,1,1,1,70,1,welsh_all,East Midlands
+E07000175,Newark and Sherwood,1,1,1,69,1,welsh_all,East Midlands
+E07000176,Rushcliffe,1,1,1,68,1,welsh_all,East Midlands
+E07000177,Cherwell,1,1,1,67,1,welsh_all,South East
+E07000178,Oxford,1,1,1,66,1,welsh_all,South East
+E07000179,South Oxfordshire,1,1,1,65,1,welsh_all,South East
+E07000180,Vale of White Horse,1,1,1,64,1,welsh_all,South East
+E07000181,West Oxfordshire,1,1,1,63,1,welsh_all,South East
+E07000187,Mendip,1,1,1,62,1,welsh_all,South West
+E07000188,Sedgemoor,1,1,1,61,1,welsh_all,South West
+E07000189,South Somerset,1,1,1,59,1,welsh_all,South West
+E07000192,Cannock Chase,1,1,1,40,1,welsh_all,West Midlands
+E07000193,East Staffordshire,1,1,1,39,1,welsh_all,West Midlands
+E07000194,Lichfield,1,1,1,38,1,welsh_all,West Midlands
+E07000195,Newcastle-under-Lyme,1,1,1,18,1,welsh_all,West Midlands
+E07000196,South Staffordshire,1,1,1,17,1,welsh_all,West Midlands
+E07000197,Stafford,1,1,1,16,1,welsh_all,West Midlands
+E07000198,Staffordshire Moorlands,1,1,1,15,1,welsh_all,West Midlands
+E07000199,Tamworth,1,1,1,14,1,welsh_all,West Midlands
+E07000200,Babergh,1,1,1,13,1,welsh_all,East
+E07000202,Ipswich,1,1,1,12,1,welsh_all,East
+E07000203,Mid Suffolk,1,1,1,10,1,welsh_all,East
+E07000207,Elmbridge,1,1,1,2,1,welsh_all,South East
+E07000208,Epsom and Ewell,1,1,1,9,1,welsh_all,South East
+E07000209,Guildford,1,1,1,8,1,welsh_all,South East
+E07000210,Mole Valley,1,1,1,7,1,welsh_all,South East
+E07000211,Reigate and Banstead,1,1,1,6,1,welsh_all,South East
+E07000212,Runnymede,1,1,1,5,1,welsh_all,South East
+E07000213,Spelthorne,1,1,1,4,1,welsh_all,South East
+E07000214,Surrey Heath,1,1,1,3,1,welsh_all,South East
+E07000215,Tandridge,1,1,1,19,1,welsh_all,South East
+E07000216,Waverley,1,1,1,20,1,welsh_all,South East
+E07000217,Woking,1,1,1,21,1,welsh_all,South East
+E07000218,North Warwickshire,1,1,1,22,1,welsh_all,West Midlands
+E07000219,Nuneaton and Bedworth,1,1,1,37,1,welsh_all,West Midlands
+E07000220,Rugby,1,1,1,36,1,welsh_all,West Midlands
+E07000221,Stratford-on-Avon,1,1,1,35,1,welsh_all,West Midlands
+E07000222,Warwick,1,1,1,34,1,welsh_all,West Midlands
+E07000223,Adur,1,1,1,33,1,welsh_all,South East
+E07000224,Arun,1,1,1,32,1,welsh_all,South East
+E07000225,Chichester,1,1,1,31,1,welsh_all,South East
+E07000226,Crawley,1,1,1,30,1,welsh_all,South East
+E07000227,Horsham,1,1,1,29,1,welsh_all,South East
+E07000228,Mid Sussex,1,1,1,28,1,welsh_all,South East
+E07000229,Worthing,1,1,1,27,1,welsh_all,South East
+E07000234,Bromsgrove,1,1,1,26,1,welsh_all,West Midlands
+E07000235,Malvern Hills,1,1,1,25,1,welsh_all,West Midlands
+E07000236,Redditch,1,1,1,24,1,welsh_all,West Midlands
+E07000237,Worcester,1,1,1,23,1,welsh_all,West Midlands
+E07000238,Wychavon,1,1,1,76,1,welsh_all,West Midlands
+E07000239,Wyre Forest,1,1,1,11,1,welsh_all,West Midlands
+E07000240,St Albans,1,1,1,77,1,welsh_all,East
+E07000241,Welwyn Hatfield,1,1,1,88,1,welsh_all,East
+E07000242,East Hertfordshire,1,1,1,133,1,welsh_all,East
+E07000243,Stevenage,1,1,1,132,1,welsh_all,East
+E07000244,East Suffolk,1,1,1,131,1,welsh_all,East
+E07000245,West Suffolk,1,1,1,130,1,welsh_all,East
+E07000246,Somerset West and Taunton,1,1,1,129,1,welsh_all,South West
+E08000001,Bolton,1,1,1,128,1,welsh_all,North West
+E08000002,Bury,1,1,1,127,1,welsh_all,North West
+E08000003,Manchester,1,1,1,126,1,welsh_all,North West
+E08000004,Oldham,1,1,1,125,1,welsh_all,North West
+E08000005,Rochdale,1,1,1,124,1,welsh_all,North West
+E08000006,Salford,1,1,1,123,1,welsh_all,North West
+E08000007,Stockport,1,1,1,122,1,welsh_all,North West
+E08000008,Tameside,1,1,1,121,1,welsh_all,North West
+E08000009,Trafford,1,1,1,120,1,welsh_all,North West
+E08000010,Wigan,1,1,1,119,1,welsh_all,North West
+E08000011,Knowsley,1,1,1,134,1,welsh_all,North West
+E08000012,Liverpool,1,1,1,118,1,welsh_all,North West
+E08000013,St. Helens,1,1,1,135,1,welsh_all,North West
+E08000014,Sefton,1,1,1,137,1,welsh_all,North West
+E08000015,Wirral,1,1,1,152,1,welsh_all,North West
+E08000016,Barnsley,1,1,1,151,1,welsh_all,Yorkshire and The Humber
+E08000017,Doncaster,1,1,1,150,1,welsh_all,Yorkshire and The Humber
+E08000018,Rotherham,1,1,1,149,1,welsh_all,Yorkshire and The Humber
+E08000019,Sheffield,1,1,1,148,1,welsh_all,Yorkshire and The Humber
+E08000021,Newcastle upon Tyne,1,1,1,147,1,welsh_all,North East
+E08000022,North Tyneside,1,1,1,146,1,welsh_all,North East
+E08000023,South Tyneside,1,1,1,145,1,welsh_all,North East
+E08000024,Sunderland,1,1,1,144,1,welsh_all,North East
+E08000025,Birmingham,1,1,1,143,1,welsh_all,West Midlands
+E08000026,Coventry,1,1,1,142,1,welsh_all,West Midlands
+E08000027,Dudley,1,1,1,141,1,welsh_all,West Midlands
+E08000028,Sandwell,1,1,1,140,1,welsh_all,West Midlands
+E08000029,Solihull,1,1,1,139,1,welsh_all,West Midlands
+E08000030,Walsall,1,1,1,138,1,welsh_all,West Midlands
+E08000031,Wolverhampton,1,1,1,136,1,welsh_all,West Midlands
+E08000032,Bradford,1,1,1,117,1,welsh_all,Yorkshire and The Humber
+E08000033,Calderdale,1,1,1,116,1,welsh_all,Yorkshire and The Humber
+E08000034,Kirklees,1,1,1,115,1,welsh_all,Yorkshire and The Humber
+E08000035,Leeds,1,1,1,95,1,welsh_all,Yorkshire and The Humber
+E08000036,Wakefield,1,1,1,94,1,welsh_all,Yorkshire and The Humber
+E08000037,Gateshead,1,1,1,93,1,welsh_all,North East
+E09000001,City of London,1,1,1,92,1,welsh_all,London
+E09000002,Barking and Dagenham,1,1,1,91,1,welsh_all,London
+E09000003,Barnet,1,1,1,90,1,welsh_all,London
+E09000004,Bexley,1,1,1,89,1,welsh_all,London
+E09000005,Brent,1,1,1,87,1,welsh_all,London
+E09000006,Bromley,1,1,1,79,1,welsh_all,London
+E09000007,Camden,1,1,1,86,1,welsh_all,London
+E09000008,Croydon,1,1,1,85,1,welsh_all,London
+E09000009,Ealing,1,1,1,84,1,welsh_all,London
+E09000010,Enfield,1,1,1,83,1,welsh_all,London
+E09000011,Greenwich,1,1,1,82,1,welsh_all,London
+E09000012,Hackney,1,1,1,81,1,welsh_all,London
+E09000013,Hammersmith and Fulham,1,1,1,80,1,welsh_all,London
+E09000014,Haringey,1,1,1,96,1,welsh_all,London
+E09000015,Harrow,1,1,1,97,1,welsh_all,London
+E09000016,Havering,1,1,1,98,1,welsh_all,London
+E09000017,Hillingdon,1,1,1,99,1,welsh_all,London
+E09000018,Hounslow,1,1,1,114,1,welsh_all,London
+E09000019,Islington,1,1,1,113,1,welsh_all,London
+E09000020,Kensington and Chelsea,1,1,1,112,1,welsh_all,London
+E09000021,Kingston upon Thames,1,1,1,111,1,welsh_all,London
+E09000022,Lambeth,1,1,1,110,1,welsh_all,London
+E09000023,Lewisham,1,1,1,109,1,welsh_all,London
+E09000024,Merton,1,1,1,108,1,welsh_all,London
+E09000025,Newham,1,1,1,107,1,welsh_all,London
+E09000026,Redbridge,1,1,1,106,1,welsh_all,London
+E09000027,Richmond upon Thames,1,1,1,105,1,welsh_all,London
+E09000028,Southwark,1,1,1,104,1,welsh_all,London
+E09000029,Sutton,1,1,1,103,1,welsh_all,London
+E09000030,Tower Hamlets,1,1,1,102,1,welsh_all,London
+E09000031,Waltham Forest,1,1,1,101,1,welsh_all,London
+E09000032,Wandsworth,1,1,1,100,1,welsh_all,London
+E09000033,Westminster,1,1,1,-1,1,welsh_all,London
 W06000001,Isle of Anglesey,100.0,100.0,0.0,1,1,welsh_all,Wales
 W06000002,Gwynedd,100.0,100.0,0.0,2,1,welsh_all,Wales
 W06000003,Conwy,100.0,100.0,0.0,-2,1,welsh_all,Wales
