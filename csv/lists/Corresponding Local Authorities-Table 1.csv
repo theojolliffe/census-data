@@ -5,7 +5,7 @@ E06000001,Hartlepool,North East,Services and Industrial Legacy
 E06000002,Middlesbrough,North East,Urban Settlements
 E06000057,Northumberland,North East,Countryside Living
 E06000003,Redcar and Cleveland,North East,Services and Industrial Legacy   
-E06000004,Stockton on Tees,North East,Services and Industrial Legacy   
+E06000004,Stockton-on-Tees,North East,Services and Industrial Legacy   
 E08000037,Gateshead,North East,Services and Industrial Legacy   
 E08000021,Newcastle upon Tyne,North East,"Business, Education and Heritage Centres "
 E08000022,North Tyneside,North East,Services and Industrial Legacy   
@@ -18,7 +18,7 @@ E06000050,Cheshire West and Chester,North West,Town and Country Living
 E06000006,Halton,North West,Services and Industrial Legacy   
 E06000007,Warrington,North West,Town and Country Living
 E07000026,Allerdale,North West,Countryside Living
-E07000027,Barrow in Furness,North West,Services and Industrial Legacy   
+E07000027,Barrow-in-Furness,North West,Services and Industrial Legacy   
 E07000028,Carlisle,North West,Services and Industrial Legacy   
 E07000029,Copeland,North West,Services and Industrial Legacy   
 E07000030,Eden,North West,Countryside Living
@@ -111,14 +111,14 @@ E07000173,Gedling,East Midlands,Town and Country Living
 E07000174,Mansfield,East Midlands,Services and Industrial Legacy   
 E07000175,Newark and Sherwood,East Midlands,Town and Country Living
 E07000176,Rushcliffe,East Midlands,Affluent England  
-E06000019,"Herefordshire,  County of",West Midlands,Countryside Living
+E06000019,"Herefordshire, County of",West Midlands,Countryside Living
 E06000051,Shropshire,West Midlands,Countryside Living
-E06000021,Stoke on Trent,West Midlands,Urban Settlements
+E06000021,Stoke-on-Trent,West Midlands,Urban Settlements
 E06000020,Telford and Wrekin,West Midlands,Urban Settlements
 E07000192,Cannock Chase,West Midlands,Services and Industrial Legacy   
 E07000193,East Staffordshire,West Midlands,Town and Country Living
 E07000194,Lichfield,West Midlands,Town and Country Living
-E07000195,Newcastle under Lyme,West Midlands,Town and Country Living
+E07000195,Newcastle-under-Lyme,West Midlands,Town and Country Living
 E07000196,South Staffordshire,West Midlands,Town and Country Living
 E07000197,Stafford,West Midlands,Town and Country Living
 E07000198,Staffordshire Moorlands,West Midlands,Town and Country Living
@@ -126,7 +126,7 @@ E07000199,Tamworth,West Midlands,Services and Industrial Legacy
 E07000218,North Warwickshire,West Midlands,Town and Country Living
 E07000219,Nuneaton and Bedworth,West Midlands,Urban Settlements
 E07000220,Rugby,West Midlands,Urban Settlements
-E07000221,Stratford on Avon,West Midlands,Countryside Living
+E07000221,Stratford-on-Avon,West Midlands,Countryside Living
 E07000222,Warwick,West Midlands,"Business, Education and Heritage Centres "
 E08000025,Birmingham,West Midlands,Ethnically Diverse Metropolitan Living
 E08000026,Coventry,West Midlands,"Business, Education and Heritage Centres "
@@ -145,7 +145,7 @@ E06000055,Bedford,East,Urban Settlements
 E06000056,Central Bedfordshire,East,Affluent England  
 E06000032,Luton,East,Ethnically Diverse Metropolitan Living
 E06000031,Peterborough,East,Urban Settlements
-E06000033,Southend on Sea,East,Urban Settlements
+E06000033,Southend-on-Sea,East,Urban Settlements
 E06000034,Thurrock,East,Urban Settlements
 E07000008,Cambridge,East,"Business, Education and Heritage Centres "
 E07000009,East Cambridgeshire,East,Town and Country Living
@@ -399,3 +399,4 @@ E06000061,"North Northamptonshire",East Midlands,Awaiting latest area classifica
 E07000245,"West Suffolk",East,Awaiting latest area classification
 E06000062,"West Northamptonshire",East Midlands,Awaiting latest area classification
 E06000053,"Isles of Scilly",South West,Awaiting latest area classification
+E07000112,"Folkestone and Hythe",South East,Awaiting latest area classification
