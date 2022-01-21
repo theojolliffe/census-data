@@ -200,7 +200,8 @@ E09000025,Newham,London,Ethnically Diverse Metropolitan Living
 E09000028,Southwark,London,London Cosmopolitan
 E09000030,Tower Hamlets,London,London Cosmopolitan
 E09000032,Wandsworth,London,London Cosmopolitan
-E09000001/E09000033,City of London/Westminster,London,London Cosmopolitan
+E09000033,Westminster,London,London Cosmopolitan
+E09000001,City of London,London,London Cosmopolitan
 E09000002,Barking and Dagenham,London,Ethnically Diverse Metropolitan Living
 E09000003,Barnet,London,Ethnically Diverse Metropolitan Living
 E09000004,Bexley,London,Urban Settlements
