@@ -69,7 +69,6 @@
 68,E07000099,North Hertfordshire,E10000015,Hertfordshire
 69,E07000061,Eastbourne,E10000011,East Sussex
 70,E07000173,Gedling,E10000024,Nottinghamshire
-262,E06000020,Telford and Wrekin,E12000005,West Midlands
 71,E07000102,Three Rivers,E10000015,Hertfordshire
 72,E07000062,Hastings,E10000011,East Sussex
 73,E07000174,Mansfield,E10000024,Nottinghamshire
@@ -251,3 +250,4 @@
 249,E09000029,Sutton,E13000002,Outer London
 250,E09000031,Waltham Forest,E13000002,Outer London
 261,E06000012,North East Lincolnshire,E10000019,Lincolnshire
+262,E06000020,Telford and Wrekin,E06000051,Shropshire
